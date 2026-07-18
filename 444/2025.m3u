@@ -1,909 +1,909 @@
-﻿#EXTM3U
-#EXTINF:-1,1pon_cy
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="1pon_cy" tvg-logo="https://logo.catvod.com/1pon_cy.png" group-title="🔞一本道_6",1pon_cy
 https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
-#EXTINF:-1,1ponslm
+#EXTINF:-1 tvg-name="1ponslm" tvg-logo="https://logo.catvod.com/1ponslm.png" group-title="🔞一本道_6",1ponslm
 https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
-#EXTINF:-1,1pon061110_854
+#EXTINF:-1 tvg-name="1pon061110_854" tvg-logo="https://logo.catvod.com/1pon061110_854.png" group-title="🔞一本道_6",1pon061110_854
 https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
-#EXTINF:-1,1pon_btmf
+#EXTINF:-1 tvg-name="1pon_btmf" tvg-logo="https://logo.catvod.com/1pon_btmf.png" group-title="🔞一本道_6",1pon_btmf
 https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
-#EXTINF:-1,1bd68
+#EXTINF:-1 tvg-name="1bd68" tvg-logo="https://logo.catvod.com/1bd68.png" group-title="🔞一本道_6",1bd68
 https://vip4.ddyunbo.com/20191211/dFWVbgGO/index.m3u8
-#EXTINF:-1,1bd2
+#EXTINF:-1 tvg-name="1bd2" tvg-logo="https://logo.catvod.com/1bd2.png" group-title="🔞一本道_6",1bd2
 https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:-1,1bd3
+#EXTINF:-1 tvg-name="1bd3" tvg-logo="https://logo.catvod.com/1bd3.png" group-title="🔞一本道_6",1bd3
 https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1,1bd4
+#EXTINF:-1 tvg-name="1bd4" tvg-logo="https://logo.catvod.com/1bd4.png" group-title="🔞一本道_6",1bd4
 https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8
-#EXTINF:-1,1bd6
+#EXTINF:-1 tvg-name="1bd6" tvg-logo="https://logo.catvod.com/1bd6.png" group-title="🔞一本道_6",1bd6
 https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8
-#EXTINF:-1,1bd7
+#EXTINF:-1 tvg-name="1bd7" tvg-logo="https://logo.catvod.com/1bd7.png" group-title="🔞一本道_6",1bd7
 https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8
-#EXTINF:-1,1bd8
+#EXTINF:-1 tvg-name="1bd8" tvg-logo="https://logo.catvod.com/1bd8.png" group-title="🔞一本道_6",1bd8
 https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8
-#EXTINF:-1,1bd9
+#EXTINF:-1 tvg-name="1bd9" tvg-logo="https://logo.catvod.com/1bd9.png" group-title="🔞一本道_6",1bd9
 https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
-#EXTINF:-1,1bd10
+#EXTINF:-1 tvg-name="1bd10" tvg-logo="https://logo.catvod.com/1bd10.png" group-title="🔞一本道_6",1bd10
 https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8
-#EXTINF:-1,1bd12
+#EXTINF:-1 tvg-name="1bd12" tvg-logo="https://logo.catvod.com/1bd12.png" group-title="🔞一本道_6",1bd12
 https://vip4.ddyunbo.com/20190904/HqGckgKl/index.m3u8
-#EXTINF:-1,1bd13
+#EXTINF:-1 tvg-name="1bd13" tvg-logo="https://logo.catvod.com/1bd13.png" group-title="🔞一本道_6",1bd13
 https://vip4.ddyunbo.com/20190904/m94xaoPh/index.m3u8
-#EXTINF:-1,1bd14
+#EXTINF:-1 tvg-name="1bd14" tvg-logo="https://logo.catvod.com/1bd14.png" group-title="🔞一本道_6",1bd14
 https://vip4.ddyunbo.com/20190908/1oZ5V2g2/index.m3u8
-#EXTINF:-1,1bd16
+#EXTINF:-1 tvg-name="1bd16" tvg-logo="https://logo.catvod.com/1bd16.png" group-title="🔞一本道_6",1bd16
 https://vip4.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
-#EXTINF:-1,1bd17
+#EXTINF:-1 tvg-name="1bd17" tvg-logo="https://logo.catvod.com/1bd17.png" group-title="🔞一本道_6",1bd17
 https://vip4.ddyunbo.com/20190908/qvYslaAx/index.m3u8
-#EXTINF:-1,1bd19
+#EXTINF:-1 tvg-name="1bd19" tvg-logo="https://logo.catvod.com/1bd19.png" group-title="🔞一本道_6",1bd19
 https://vip4.ddyunbo.com/20190908/nvueB1Az/index.m3u8
-#EXTINF:-1,1bd20
+#EXTINF:-1 tvg-name="1bd20" tvg-logo="https://logo.catvod.com/1bd20.png" group-title="🔞一本道_6",1bd20
 https://vip4.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
-#EXTINF:-1,1bd21
+#EXTINF:-1 tvg-name="1bd21" tvg-logo="https://logo.catvod.com/1bd21.png" group-title="🔞一本道_6",1bd21
 https://vip4.ddyunbo.com/20190914/dSIYelxz/index.m3u8
-#EXTINF:-1,1bd22
+#EXTINF:-1 tvg-name="1bd22" tvg-logo="https://logo.catvod.com/1bd22.png" group-title="🔞一本道_6",1bd22
 https://vip4.ddyunbo.com/20190914/TFWmOomT/index.m3u8
-#EXTINF:-1,1bd24
+#EXTINF:-1 tvg-name="1bd24" tvg-logo="https://logo.catvod.com/1bd24.png" group-title="🔞一本道_6",1bd24
 https://vip4.ddyunbo.com/20190918/7mkn1AhN/index.m3u8
-#EXTINF:-1,1bd25
+#EXTINF:-1 tvg-name="1bd25" tvg-logo="https://logo.catvod.com/1bd25.png" group-title="🔞一本道_6",1bd25
 https://vip4.ddyunbo.com/20190923/WebyDiop/index.m3u8
-#EXTINF:-1,1bd27
+#EXTINF:-1 tvg-name="1bd27" tvg-logo="https://logo.catvod.com/1bd27.png" group-title="🔞一本道_6",1bd27
 https://vip4.ddyunbo.com/20191003/EuwbmURX/index.m3u8
-#EXTINF:-1,1bd28
+#EXTINF:-1 tvg-name="1bd28" tvg-logo="https://logo.catvod.com/1bd28.png" group-title="🔞一本道_6",1bd28
 https://vip4.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
-#EXTINF:-1,1bd29
+#EXTINF:-1 tvg-name="1bd29" tvg-logo="https://logo.catvod.com/1bd29.png" group-title="🔞一本道_6",1bd29
 https://vip4.ddyunbo.com/20191004/GKWK7Q5F/index.m3u8
-#EXTINF:-1,1bd30
+#EXTINF:-1 tvg-name="1bd30" tvg-logo="https://logo.catvod.com/1bd30.png" group-title="🔞一本道_6",1bd30
 https://vip4.ddyunbo.com/20191004/3T6aTxbN/index.m3u8
-#EXTINF:-1,1bd31
+#EXTINF:-1 tvg-name="1bd31" tvg-logo="https://logo.catvod.com/1bd31.png" group-title="🔞一本道_6",1bd31
 https://vip4.ddyunbo.com/20191004/FxbqgEFY/index.m3u8
-#EXTINF:-1,1bd32
+#EXTINF:-1 tvg-name="1bd32" tvg-logo="https://logo.catvod.com/1bd32.png" group-title="🔞一本道_6",1bd32
 https://vip4.ddyunbo.com/20191004/rURK4pfY/index.m3u8
-#EXTINF:-1,1bd33
+#EXTINF:-1 tvg-name="1bd33" tvg-logo="https://logo.catvod.com/1bd33.png" group-title="🔞一本道_6",1bd33
 https://vip4.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
-#EXTINF:-1,1bd34
+#EXTINF:-1 tvg-name="1bd34" tvg-logo="https://logo.catvod.com/1bd34.png" group-title="🔞一本道_6",1bd34
 https://vip4.ddyunbo.com/20191007/IFlq5eON/index.m3u8
-#EXTINF:-1,1bd35
+#EXTINF:-1 tvg-name="1bd35" tvg-logo="https://logo.catvod.com/1bd35.png" group-title="🔞一本道_6",1bd35
 https://vip4.ddyunbo.com/20191007/qISqWik0/index.m3u8
-#EXTINF:-1,1bd36
+#EXTINF:-1 tvg-name="1bd36" tvg-logo="https://logo.catvod.com/1bd36.png" group-title="🔞一本道_6",1bd36
 https://vip4.ddyunbo.com/20190907/PH1oGegu/index.m3u8
-#EXTINF:-1,1bd37
+#EXTINF:-1 tvg-name="1bd37" tvg-logo="https://logo.catvod.com/1bd37.png" group-title="🔞一本道_6",1bd37
 https://vip4.ddyunbo.com/20191206/aIGd1S2S/index.m3u8
-#EXTINF:-1,1bd38
+#EXTINF:-1 tvg-name="1bd38" tvg-logo="https://logo.catvod.com/1bd38.png" group-title="🔞一本道_6",1bd38
 https://vip4.ddyunbo.com/20190908/qvYslaAx/index.m3u8
-#EXTINF:-1,1bd39
+#EXTINF:-1 tvg-name="1bd39" tvg-logo="https://logo.catvod.com/1bd39.png" group-title="🔞一本道_6",1bd39
 https://vip4.ddyunbo.com/20191209/eOWqpnjK/index.m3u8
-#EXTINF:-1,1bd40
+#EXTINF:-1 tvg-name="1bd40" tvg-logo="https://logo.catvod.com/1bd40.png" group-title="🔞一本道_6",1bd40
 https://vip4.ddyunbo.com/20191203/kT2Rfcof/index.m3u8
-#EXTINF:-1,1bd41
+#EXTINF:-1 tvg-name="1bd41" tvg-logo="https://logo.catvod.com/1bd41.png" group-title="🔞一本道_6",1bd41
 https://vip4.ddyunbo.com/20191203/eKcaCDs1/index.m3u8
-#EXTINF:-1,1bd42
+#EXTINF:-1 tvg-name="1bd42" tvg-logo="https://logo.catvod.com/1bd42.png" group-title="🔞一本道_6",1bd42
 https://vip4.ddyunbo.com/20191204/jouQzYVh/index.m3u8
-#EXTINF:-1,1bd43
+#EXTINF:-1 tvg-name="1bd43" tvg-logo="https://logo.catvod.com/1bd43.png" group-title="🔞一本道_6",1bd43
 https://vip4.ddyunbo.com/20190824/InhHOPJz/index.m3u8
-#EXTINF:-1,1bd47
+#EXTINF:-1 tvg-name="1bd47" tvg-logo="https://logo.catvod.com/1bd47.png" group-title="🔞一本道_6",1bd47
 https://vip4.ddyunbo.com/20190724/fpVllSSA/index.m3u8
-#EXTINF:-1,1bd48
+#EXTINF:-1 tvg-name="1bd48" tvg-logo="https://logo.catvod.com/1bd48.png" group-title="🔞一本道_6",1bd48
 https://vip4.ddyunbo.com/20191115/nz0OLAD7/index.m3u8
-#EXTINF:-1,1bd49
+#EXTINF:-1 tvg-name="1bd49" tvg-logo="https://logo.catvod.com/1bd49.png" group-title="🔞一本道_6",1bd49
 https://vip4.ddyunbo.com/20191205/ZgkgLcVy/index.m3u8
-#EXTINF:-1,1bd50
+#EXTINF:-1 tvg-name="1bd50" tvg-logo="https://logo.catvod.com/1bd50.png" group-title="🔞一本道_6",1bd50
 https://vip4.ddyunbo.com/20191111/YQ1Jvlo7/index.m3u8
-#EXTINF:-1,1bd51
+#EXTINF:-1 tvg-name="1bd51" tvg-logo="https://logo.catvod.com/1bd51.png" group-title="🔞一本道_6",1bd51
 https://vip4.ddyunbo.com/20191203/mXPJeA8L/index.m3u8
-#EXTINF:-1,1bd52
+#EXTINF:-1 tvg-name="1bd52" tvg-logo="https://logo.catvod.com/1bd52.png" group-title="🔞一本道_6",1bd52
 https://vip4.ddyunbo.com/20191201/aBIJI8XX/index.m3u8
-#EXTINF:-1,1bd53
+#EXTINF:-1 tvg-name="1bd53" tvg-logo="https://logo.catvod.com/1bd53.png" group-title="🔞一本道_6",1bd53
 https://vip4.ddyunbo.com/20191209/nBF7mWF0/index.m3u8
-#EXTINF:-1,1bd54
+#EXTINF:-1 tvg-name="1bd54" tvg-logo="https://logo.catvod.com/1bd54.png" group-title="🔞一本道_6",1bd54
 https://vip4.ddyunbo.com/20191211/EmnFBcTv/index.m3u8
-#EXTINF:-1,1bd57
+#EXTINF:-1 tvg-name="1bd57" tvg-logo="https://logo.catvod.com/1bd57.png" group-title="🔞一本道_6",1bd57
 https://vip4.ddyunbo.com/20191128/6sgJpPs4/index.m3u8
-#EXTINF:-1,1bd64
+#EXTINF:-1 tvg-name="1bd64" tvg-logo="https://logo.catvod.com/1bd64.png" group-title="🔞一本道_6",1bd64
 https://vip4.ddyunbo.com/20191210/cyck231P/index.m3u8
-#EXTINF:-1,1bd65
+#EXTINF:-1 tvg-name="1bd65" tvg-logo="https://logo.catvod.com/1bd65.png" group-title="🔞一本道_6",1bd65
 https://vip4.ddyunbo.com/20191203/qg6ciKiI/index.m3u8
-#EXTINF:-1,1bd66
+#EXTINF:-1 tvg-name="1bd66" tvg-logo="https://logo.catvod.com/1bd66.png" group-title="🔞一本道_6",1bd66
 https://vip4.ddyunbo.com/20191122/r7naPuig/index.m3u8
-#EXTINF:-1,1bd67
+#EXTINF:-1 tvg-name="1bd67" tvg-logo="https://logo.catvod.com/1bd67.png" group-title="🔞一本道_6",1bd67
 https://vip4.ddyunbo.com/20191205/SIKrL2zv/index.m3u8
-#EXTINF:-1,1bd69
+#EXTINF:-1 tvg-name="1bd69" tvg-logo="https://logo.catvod.com/1bd69.png" group-title="🔞一本道_6",1bd69
 https://vip4.ddyunbo.com/20191201/XNRFDngP/index.m3u8
-#EXTINF:-1,1bd71
+#EXTINF:-1 tvg-name="1bd71" tvg-logo="https://logo.catvod.com/1bd71.png" group-title="🔞一本道_6",1bd71
 https://vip4.ddyunbo.com/20191128/J5nWdwcz/index.m3u8
-#EXTINF:-1,1bd76
+#EXTINF:-1 tvg-name="1bd76" tvg-logo="https://logo.catvod.com/1bd76.png" group-title="🔞一本道_6",1bd76
 https://vip4.ddyunbo.com/20191115/tLqC19DS/index.m3u8
-#EXTINF:-1,1bd79
+#EXTINF:-1 tvg-name="1bd79" tvg-logo="https://logo.catvod.com/1bd79.png" group-title="🔞一本道_6",1bd79
 https://vip4.ddyunbo.com/20190729/Lv7KSuaP/index.m3u8
-#EXTINF:-1,1bd81
+#EXTINF:-1 tvg-name="1bd81" tvg-logo="https://logo.catvod.com/1bd81.png" group-title="🔞一本道_6",1bd81
 https://vip4.ddyunbo.com/20191110/Z3mWJbrz/index.m3u8
-#EXTINF:-1,1bd82
+#EXTINF:-1 tvg-name="1bd82" tvg-logo="https://logo.catvod.com/1bd82.png" group-title="🔞一本道_6",1bd82
 https://vip4.ddyunbo.com/20190724/SRcabvNZ/index.m3u8
-#EXTINF:-1,1bd83
+#EXTINF:-1 tvg-name="1bd83" tvg-logo="https://logo.catvod.com/1bd83.png" group-title="🔞一本道_6",1bd83
 https://vip4.ddyunbo.com/20191127/52rP822O/index.m3u8
-#EXTINF:-1,1bd84
+#EXTINF:-1 tvg-name="1bd84" tvg-logo="https://logo.catvod.com/1bd84.png" group-title="🔞一本道_6",1bd84
 https://vip4.ddyunbo.com/20191207/p0zvtDBY/index.m3u8
-#EXTINF:-1,1bd85
+#EXTINF:-1 tvg-name="1bd85" tvg-logo="https://logo.catvod.com/1bd85.png" group-title="🔞一本道_6",1bd85
 https://vip4.ddyunbo.com/20191208/dw94ieYl/index.m3u8
-#EXTINF:-1,1bd86
+#EXTINF:-1 tvg-name="1bd86" tvg-logo="https://logo.catvod.com/1bd86.png" group-title="🔞一本道_6",1bd86
 https://vip4.ddyunbo.com/20190913/MA5Cn7rw/index.m3u8
-#EXTINF:-1,1bd87
+#EXTINF:-1 tvg-name="1bd87" tvg-logo="https://logo.catvod.com/1bd87.png" group-title="🔞一本道_6",1bd87
 https://vip4.ddyunbo.com/20191210/tyN6I80q/index.m3u8
-#EXTINF:-1,1bd88
+#EXTINF:-1 tvg-name="1bd88" tvg-logo="https://logo.catvod.com/1bd88.png" group-title="🔞一本道_6",1bd88
 https://vip4.ddyunbo.com/20191122/QMk66MvN/index.m3u8
-#EXTINF:-1,1bd89
+#EXTINF:-1 tvg-name="1bd89" tvg-logo="https://logo.catvod.com/1bd89.png" group-title="🔞一本道_6",1bd89
 https://vip4.ddyunbo.com/20191206/trGVPzmt/index.m3u8
-#EXTINF:-1,1bd90
+#EXTINF:-1 tvg-name="1bd90" tvg-logo="https://logo.catvod.com/1bd90.png" group-title="🔞一本道_6",1bd90
 https://vip4.ddyunbo.com/20191010/xcMAZOOw/index.m3u8
-#EXTINF:-1,1bd91
+#EXTINF:-1 tvg-name="1bd91" tvg-logo="https://logo.catvod.com/1bd91.png" group-title="🔞一本道_6",1bd91
 https://vip4.ddyunbo.com/20191207/tBB5RkgE/index.m3u8
-#EXTINF:-1,1bd92
+#EXTINF:-1 tvg-name="1bd92" tvg-logo="https://logo.catvod.com/1bd92.png" group-title="🔞一本道_6",1bd92
 https://vip4.ddyunbo.com/20191207/Le7BwZ7a/index.m3u8
-#EXTINF:-1,1bd93
+#EXTINF:-1 tvg-name="1bd93" tvg-logo="https://logo.catvod.com/1bd93.png" group-title="🔞一本道_6",1bd93
 https://vip4.ddyunbo.com/20191115/XU1ZFXas/index.m3u8
-#EXTINF:-1,1bd94
+#EXTINF:-1 tvg-name="1bd94" tvg-logo="https://logo.catvod.com/1bd94.png" group-title="🔞一本道_6",1bd94
 https://vip4.ddyunbo.com/20191205/VDovZ2mt/index.m3u8
-#EXTINF:-1,1bd95
+#EXTINF:-1 tvg-name="1bd95" tvg-logo="https://logo.catvod.com/1bd95.png" group-title="🔞一本道_6",1bd95
 https://vip4.ddyunbo.com/20191203/N6QagWOF/index.m3u8
-#EXTINF:-1,1bd96
+#EXTINF:-1 tvg-name="1bd96" tvg-logo="https://logo.catvod.com/1bd96.png" group-title="🔞一本道_6",1bd96
 https://vip4.ddyunbo.com/20191125/OqB6IP7s/index.m3u8
-#EXTINF:-1,1bd97
+#EXTINF:-1 tvg-name="1bd97" tvg-logo="https://logo.catvod.com/1bd97.png" group-title="🔞一本道_6",1bd97
 https://vip4.ddyunbo.com/20191121/qFgFA0vx/index.m3u8
-#EXTINF:-1,1bd98
+#EXTINF:-1 tvg-name="1bd98" tvg-logo="https://logo.catvod.com/1bd98.png" group-title="🔞一本道_6",1bd98
 https://vip4.ddyunbo.com/20191127/xnpQRfvD/index.m3u8
-#EXTINF:-1,1bd99
+#EXTINF:-1 tvg-name="1bd99" tvg-logo="https://logo.catvod.com/1bd99.png" group-title="🔞一本道_6",1bd99
 https://vip4.ddyunbo.com/20191204/6UOQDpAF/index.m3u8
-#EXTINF:-1,1bd100
+#EXTINF:-1 tvg-name="1bd100" tvg-logo="https://logo.catvod.com/1bd100.png" group-title="🔞一本道_6",1bd100
 https://vip4.ddyunbo.com/20191210/iClVJoQP/index.m3u8
-#EXTINF:-1,1bd101
+#EXTINF:-1 tvg-name="1bd101" tvg-logo="https://logo.catvod.com/1bd101.png" group-title="🔞一本道_6",1bd101
 https://vip4.ddyunbo.com/20190801/68w4hmaH/index.m3u8
-#EXTINF:-1,1bd102
+#EXTINF:-1 tvg-name="1bd102" tvg-logo="https://logo.catvod.com/1bd102.png" group-title="🔞一本道_6",1bd102
 https://vip4.ddyunbo.com/20191203/AdOtik4n/index.m3u8
-#EXTINF:-1,1bd103
+#EXTINF:-1 tvg-name="1bd103" tvg-logo="https://logo.catvod.com/1bd103.png" group-title="🔞一本道_6",1bd103
 https://vip4.ddyunbo.com/20191207/Aawt3pa8/index.m3u8
-#EXTINF:-1,1bd104
+#EXTINF:-1 tvg-name="1bd104" tvg-logo="https://logo.catvod.com/1bd104.png" group-title="🔞一本道_6",1bd104
 https://vip4.ddyunbo.com/20191118/cqj1PHFT/index.m3u8
-#EXTINF:-1,1bd105
+#EXTINF:-1 tvg-name="1bd105" tvg-logo="https://logo.catvod.com/1bd105.png" group-title="🔞一本道_6",1bd105
 https://vip4.ddyunbo.com/20191203/lrQfHler/index.m3u8
-#EXTINF:-1,1bd106
+#EXTINF:-1 tvg-name="1bd106" tvg-logo="https://logo.catvod.com/1bd106.png" group-title="🔞一本道_6",1bd106
 https://vip4.ddyunbo.com/20191203/5E24xFQu/index.m3u8
-#EXTINF:-1,1bd107
+#EXTINF:-1 tvg-name="1bd107" tvg-logo="https://logo.catvod.com/1bd107.png" group-title="🔞一本道_6",1bd107
 https://vip4.ddyunbo.com/20191206/wElIhu09/index.m3u8
-#EXTINF:-1,1bd108
+#EXTINF:-1 tvg-name="1bd108" tvg-logo="https://logo.catvod.com/1bd108.png" group-title="🔞一本道_6",1bd108
 https://vip4.ddyunbo.com/20191209/zpkqVbXG/index.m3u8
-#EXTINF:-1,1bd109
+#EXTINF:-1 tvg-name="1bd109" tvg-logo="https://logo.catvod.com/1bd109.png" group-title="🔞一本道_6",1bd109
 https://vip4.ddyunbo.com/20191130/5D8rho9Y/index.m3u8
-#EXTINF:-1,1bd110
+#EXTINF:-1 tvg-name="1bd110" tvg-logo="https://logo.catvod.com/1bd110.png" group-title="🔞一本道_6",1bd110
 https://vip4.ddyunbo.com/20191125/b7iK6Oay/index.m3u8
-#EXTINF:-1,1bd111
+#EXTINF:-1 tvg-name="1bd111" tvg-logo="https://logo.catvod.com/1bd111.png" group-title="🔞一本道_6",1bd111
 https://vip4.ddyunbo.com/20191118/pa08NZI8/index.m3u8
-#EXTINF:-1,1bd112
+#EXTINF:-1 tvg-name="1bd112" tvg-logo="https://logo.catvod.com/1bd112.png" group-title="🔞一本道_6",1bd112
 https://vip4.ddyunbo.com/20191209/ptaY4sdV/index.m3u8
-#EXTINF:-1,1bd113
+#EXTINF:-1 tvg-name="1bd113" tvg-logo="https://logo.catvod.com/1bd113.png" group-title="🔞一本道_6",1bd113
 https://vip4.ddyunbo.com/20191208/YoOOpIoB/index.m3u8
-#EXTINF:-1,1bd114
+#EXTINF:-1 tvg-name="1bd114" tvg-logo="https://logo.catvod.com/1bd114.png" group-title="🔞一本道_6",1bd114
 https://vip4.ddyunbo.com/20191206/KlOfpmXm/index.m3u8
-#EXTINF:-1,1bd115
+#EXTINF:-1 tvg-name="1bd115" tvg-logo="https://logo.catvod.com/1bd115.png" group-title="🔞一本道_6",1bd115
 https://vip4.ddyunbo.com/20191128/bhlfixkB/index.m3u8
-#EXTINF:-1,1bd116
+#EXTINF:-1 tvg-name="1bd116" tvg-logo="https://logo.catvod.com/1bd116.png" group-title="🔞一本道_6",1bd116
 https://vip4.ddyunbo.com/20191004/27dVXQbM/index.m3u8
-#EXTINF:-1,1bd117
+#EXTINF:-1 tvg-name="1bd117" tvg-logo="https://logo.catvod.com/1bd117.png" group-title="🔞一本道_6",1bd117
 https://vip4.ddyunbo.com/20191130/opfnHxZs/index.m3u8
-#EXTINF:-1,1bd118
+#EXTINF:-1 tvg-name="1bd118" tvg-logo="https://logo.catvod.com/1bd118.png" group-title="🔞一本道_6",1bd118
 https://vip4.ddyunbo.com/20191020/HFA1EICB/index.m3u8
-#EXTINF:-1,1bd119
+#EXTINF:-1 tvg-name="1bd119" tvg-logo="https://logo.catvod.com/1bd119.png" group-title="🔞一本道_6",1bd119
 https://vip4.ddyunbo.com/20190725/QoR2tEMa/index.m3u8
-#EXTINF:-1,1bd120
+#EXTINF:-1 tvg-name="1bd120" tvg-logo="https://logo.catvod.com/1bd120.png" group-title="🔞一本道_6",1bd120
 https://vip4.ddyunbo.com/20191203/a3QaDIMv/index.m3u8
-#EXTINF:-1,1bd121
+#EXTINF:-1 tvg-name="1bd121" tvg-logo="https://logo.catvod.com/1bd121.png" group-title="🌈 频道 2_6",1bd121
 https://vip4.ddyunbo.com/20191104/j2LhlTOV/index.m3u8
-#EXTINF:-1,1bd122
+#EXTINF:-1 tvg-name="1bd122" tvg-logo="https://logo.catvod.com/1bd122.png" group-title="🌈 频道 2_6",1bd122
 https://vip4.ddyunbo.com/20191008/zaPfpDWi/index.m3u8
-#EXTINF:-1,1bd123
+#EXTINF:-1 tvg-name="1bd123" tvg-logo="https://logo.catvod.com/1bd123.png" group-title="🌈 频道 2_6",1bd123
 https://vip4.ddyunbo.com/20191206/beXglix7/index.m3u8
-#EXTINF:-1,1bd124
+#EXTINF:-1 tvg-name="1bd124" tvg-logo="https://logo.catvod.com/1bd124.png" group-title="🌈 频道 2_6",1bd124
 https://vip4.ddyunbo.com/20191207/ywgZ4c11/index.m3u8
-#EXTINF:-1,1bd125
+#EXTINF:-1 tvg-name="1bd125" tvg-logo="https://logo.catvod.com/1bd125.png" group-title="🌈 频道 2_6",1bd125
 https://vip4.ddyunbo.com/20191122/CTiWjkn3/index.m3u8
-#EXTINF:-1,1bd126
+#EXTINF:-1 tvg-name="1bd126" tvg-logo="https://logo.catvod.com/1bd126.png" group-title="🌈 频道 2_6",1bd126
 https://vip4.ddyunbo.com/20191203/fo9gOCfd/index.m3u8
-#EXTINF:-1,1bd127
+#EXTINF:-1 tvg-name="1bd127" tvg-logo="https://logo.catvod.com/1bd127.png" group-title="🌈 频道 2_6",1bd127
 https://vip4.ddyunbo.com/20191128/LfZiCMWd/index.m3u8
-#EXTINF:-1,1bd128
+#EXTINF:-1 tvg-name="1bd128" tvg-logo="https://logo.catvod.com/1bd128.png" group-title="🌈 频道 2_6",1bd128
 https://vip4.ddyunbo.com/20191102/VMYrbDYq/index.m3u8
-#EXTINF:-1,1bd129
+#EXTINF:-1 tvg-name="1bd129" tvg-logo="https://logo.catvod.com/1bd129.png" group-title="🌈 频道 2_6",1bd129
 https://vip4.ddyunbo.com/20191201/JkE6BitE/index.m3u8
-#EXTINF:-1,1bd130
+#EXTINF:-1 tvg-name="1bd130" tvg-logo="https://logo.catvod.com/1bd130.png" group-title="🌈 频道 2_6",1bd130
 https://vip4.ddyunbo.com/20191121/tYZpFfYL/index.m3u8
-#EXTINF:-1,1bd131
+#EXTINF:-1 tvg-name="1bd131" tvg-logo="https://logo.catvod.com/1bd131.png" group-title="🌈 频道 2_6",1bd131
 https://vip4.ddyunbo.com/20191102/k5XyaYgP/index.m3u8
-#EXTINF:-1,1bd132
+#EXTINF:-1 tvg-name="1bd132" tvg-logo="https://logo.catvod.com/1bd132.png" group-title="🌈 频道 2_6",1bd132
 https://vip4.ddyunbo.com/20191008/aJt3osLQ/index.m3u8
-#EXTINF:-1,1bd133
+#EXTINF:-1 tvg-name="1bd133" tvg-logo="https://logo.catvod.com/1bd133.png" group-title="🌈 频道 2_6",1bd133
 https://vip4.ddyunbo.com/20191206/W6K0WfDk/index.m3u8
-#EXTINF:-1,1bd134
+#EXTINF:-1 tvg-name="1bd134" tvg-logo="https://logo.catvod.com/1bd134.png" group-title="🌈 频道 2_6",1bd134
 https://vip4.ddyunbo.com/20190712/AWmTfG0V/index.m3u8
-#EXTINF:-1,1bd135
+#EXTINF:-1 tvg-name="1bd135" tvg-logo="https://logo.catvod.com/1bd135.png" group-title="🌈 频道 2_6",1bd135
 https://vip4.ddyunbo.com/20191203/2MAO7hnv/index.m3u8
-#EXTINF:-1,1bd136
+#EXTINF:-1 tvg-name="1bd136" tvg-logo="https://logo.catvod.com/1bd136.png" group-title="🌈 频道 2_6",1bd136
 https://vip4.ddyunbo.com/20191122/XqkKvmTm/index.m3u8
-#EXTINF:-1,1bd137
+#EXTINF:-1 tvg-name="1bd137" tvg-logo="https://logo.catvod.com/1bd137.png" group-title="🌈 频道 2_6",1bd137
 https://vip4.ddyunbo.com/20191205/ZhyfTfzD/index.m3u8
-#EXTINF:-1,1bd138
+#EXTINF:-1 tvg-name="1bd138" tvg-logo="https://logo.catvod.com/1bd138.png" group-title="🌈 频道 2_6",1bd138
 https://vip4.ddyunbo.com/20191209/Cg46YFFD/index.m3u8
-#EXTINF:-1,1bd139
+#EXTINF:-1 tvg-name="1bd139" tvg-logo="https://logo.catvod.com/1bd139.png" group-title="🌈 频道 2_6",1bd139
 https://vip4.ddyunbo.com/20191203/5sYrnUa8/index.m3u8
-#EXTINF:-1,1bd140
+#EXTINF:-1 tvg-name="1bd140" tvg-logo="https://logo.catvod.com/1bd140.png" group-title="🌈 频道 2_6",1bd140
 https://vip4.ddyunbo.com/20191206/D2NceISA/index.m3u8
-#EXTINF:-1,1bd141
+#EXTINF:-1 tvg-name="1bd141" tvg-logo="https://logo.catvod.com/1bd141.png" group-title="🌈 频道 2_6",1bd141
 https://vip4.ddyunbo.com/20190703/TS1mxp2x/index.m3u8
-#EXTINF:-1,1bd142
+#EXTINF:-1 tvg-name="1bd142" tvg-logo="https://logo.catvod.com/1bd142.png" group-title="🌈 频道 2_6",1bd142
 https://vip4.ddyunbo.com/20191127/28kOylU9/index.m3u8
-#EXTINF:-1,1bd143
+#EXTINF:-1 tvg-name="1bd143" tvg-logo="https://logo.catvod.com/1bd143.png" group-title="🌈 频道 2_6",1bd143
 https://vip4.ddyunbo.com/20190924/1r6n6c3u/index.m3u8
-#EXTINF:-1,1bd144
+#EXTINF:-1 tvg-name="1bd144" tvg-logo="https://logo.catvod.com/1bd144.png" group-title="🌈 频道 2_6",1bd144
 https://vip4.ddyunbo.com/20191201/8UTueLDg/index.m3u8
-#EXTINF:-1,1bd145
+#EXTINF:-1 tvg-name="1bd145" tvg-logo="https://logo.catvod.com/1bd145.png" group-title="🌈 频道 2_6",1bd145
 https://vip4.ddyunbo.com/20191011/eswYrYkE/index.m3u8
-#EXTINF:-1,1bd146
+#EXTINF:-1 tvg-name="1bd146" tvg-logo="https://logo.catvod.com/1bd146.png" group-title="🌈 频道 2_6",1bd146
 https://vip4.ddyunbo.com/20191109/7zPRNKbZ/index.m3u8
-#EXTINF:-1,1bd147
+#EXTINF:-1 tvg-name="1bd147" tvg-logo="https://logo.catvod.com/1bd147.png" group-title="🌈 频道 2_6",1bd147
 https://vip4.ddyunbo.com/20191208/0gSaR7IX/index.m3u8
-#EXTINF:-1,1bd148
+#EXTINF:-1 tvg-name="1bd148" tvg-logo="https://logo.catvod.com/1bd148.png" group-title="🌈 频道 2_6",1bd148
 https://vip4.ddyunbo.com/20191203/B5DlB2Ib/index.m3u8
-#EXTINF:-1,1bd149
+#EXTINF:-1 tvg-name="1bd149" tvg-logo="https://logo.catvod.com/1bd149.png" group-title="🌈 频道 2_6",1bd149
 https://vip4.ddyunbo.com/20191108/iI37Slwz/index.m3u8
-#EXTINF:-1,1bd150
+#EXTINF:-1 tvg-name="1bd150" tvg-logo="https://logo.catvod.com/1bd150.png" group-title="🌈 频道 2_6",1bd150
 https://vip4.ddyunbo.com/20191115/nxekkiWv/index.m3u8
-#EXTINF:-1,1bd151
+#EXTINF:-1 tvg-name="1bd151" tvg-logo="https://logo.catvod.com/1bd151.png" group-title="🌈 频道 2_6",1bd151
 https://vip4.ddyunbo.com/20191206/DRjLLulI/index.m3u8
-#EXTINF:-1,1bd152
+#EXTINF:-1 tvg-name="1bd152" tvg-logo="https://logo.catvod.com/1bd152.png" group-title="🌈 频道 2_6",1bd152
 https://vip4.ddyunbo.com/20191208/F59kEATh/index.m3u8
-#EXTINF:-1,1bd153
+#EXTINF:-1 tvg-name="1bd153" tvg-logo="https://logo.catvod.com/1bd153.png" group-title="🌈 频道 2_6",1bd153
 https://vip4.ddyunbo.com/20191205/u11PSJcw/index.m3u8
-#EXTINF:-1,1bd154
+#EXTINF:-1 tvg-name="1bd154" tvg-logo="https://logo.catvod.com/1bd154.png" group-title="🌈 频道 2_6",1bd154
 https://vip4.ddyunbo.com/20191203/PldaO4lb/index.m3u8
-#EXTINF:-1,1bd155
+#EXTINF:-1 tvg-name="1bd155" tvg-logo="https://logo.catvod.com/1bd155.png" group-title="🌈 频道 2_6",1bd155
 https://vip4.ddyunbo.com/20191206/AYu0BDSt/index.m3u8
-#EXTINF:-1,1bd156
+#EXTINF:-1 tvg-name="1bd156" tvg-logo="https://logo.catvod.com/1bd156.png" group-title="🌈 频道 2_6",1bd156
 https://vip4.ddyunbo.com/20191211/M3q09qGG/index.m3u8
-#EXTINF:-1,1bd157
+#EXTINF:-1 tvg-name="1bd157" tvg-logo="https://logo.catvod.com/1bd157.png" group-title="🌈 频道 2_6",1bd157
 https://vip4.ddyunbo.com/20191128/tZFK4HY2/index.m3u8
-#EXTINF:-1,1bd158
+#EXTINF:-1 tvg-name="1bd158" tvg-logo="https://logo.catvod.com/1bd158.png" group-title="🌈 频道 2_6",1bd158
 https://vip4.ddyunbo.com/20191130/tZycHwv3/index.m3u8
-#EXTINF:-1,1bd159
+#EXTINF:-1 tvg-name="1bd159" tvg-logo="https://logo.catvod.com/1bd159.png" group-title="🌈 频道 2_6",1bd159
 https://vip4.ddyunbo.com/20191111/1B9E9krC/index.m3u8
-#EXTINF:-1,1bd160
+#EXTINF:-1 tvg-name="1bd160" tvg-logo="https://logo.catvod.com/1bd160.png" group-title="🌈 频道 2_6",1bd160
 https://vip4.ddyunbo.com/20190911/TkgRmCOM/index.m3u8
-#EXTINF:-1,1bd161
+#EXTINF:-1 tvg-name="1bd161" tvg-logo="https://logo.catvod.com/1bd161.png" group-title="🌈 频道 2_6",1bd161
 https://vip4.ddyunbo.com/20191121/xcENj210/index.m3u8
-#EXTINF:-1,1bd162
+#EXTINF:-1 tvg-name="1bd162" tvg-logo="https://logo.catvod.com/1bd162.png" group-title="🌈 频道 2_6",1bd162
 https://vip4.ddyunbo.com/20190821/N8XQWA19/index.m3u8
-#EXTINF:-1,1bd163
+#EXTINF:-1 tvg-name="1bd163" tvg-logo="https://logo.catvod.com/1bd163.png" group-title="🌈 频道 2_6",1bd163
 https://vip4.ddyunbo.com/20191121/5fNyVOF0/index.m3u8
-#EXTINF:-1,1bd164
+#EXTINF:-1 tvg-name="1bd164" tvg-logo="https://logo.catvod.com/1bd164.png" group-title="🌈 频道 2_6",1bd164
 https://vip4.ddyunbo.com/20191120/c3IW5efi/index.m3u8
-#EXTINF:-1,1bd165
+#EXTINF:-1 tvg-name="1bd165" tvg-logo="https://logo.catvod.com/1bd165.png" group-title="🌈 频道 2_6",1bd165
 https://vip4.ddyunbo.com/20191208/bbjKax2R/index.m3u8
-#EXTINF:-1,1bd166
+#EXTINF:-1 tvg-name="1bd166" tvg-logo="https://logo.catvod.com/1bd166.png" group-title="🌈 频道 2_6",1bd166
 https://vip4.ddyunbo.com/20191005/pXmIH9LF/index.m3u8
-#EXTINF:-1,1bd167
+#EXTINF:-1 tvg-name="1bd167" tvg-logo="https://logo.catvod.com/1bd167.png" group-title="🌈 频道 2_6",1bd167
 https://vip4.ddyunbo.com/20191125/VWWVU5vF/index.m3u8
-#EXTINF:-1,1bd168
+#EXTINF:-1 tvg-name="1bd168" tvg-logo="https://logo.catvod.com/1bd168.png" group-title="🌈 频道 2_6",1bd168
 https://vip4.ddyunbo.com/20191205/5JT6u3Ag/index.m3u8
-#EXTINF:-1,1bd169
+#EXTINF:-1 tvg-name="1bd169" tvg-logo="https://logo.catvod.com/1bd169.png" group-title="🌈 频道 2_6",1bd169
 https://vip4.ddyunbo.com/20191206/jrpIh9qw/index.m3u8
-#EXTINF:-1,1bd170
+#EXTINF:-1 tvg-name="1bd170" tvg-logo="https://logo.catvod.com/1bd170.png" group-title="🌈 频道 2_6",1bd170
 https://vip4.ddyunbo.com/20191206/mXdjz6j1/index.m3u8
-#EXTINF:-1,1bd172
+#EXTINF:-1 tvg-name="1bd172" tvg-logo="https://logo.catvod.com/1bd172.png" group-title="🌈 频道 2_6",1bd172
 https://vip4.ddyunbo.com/20191130/iEZY20NL/index.m3u8
-#EXTINF:-1,1bd173
+#EXTINF:-1 tvg-name="1bd173" tvg-logo="https://logo.catvod.com/1bd173.png" group-title="🌈 频道 2_6",1bd173
 https://vip4.ddyunbo.com/20191201/XJwjwidw/index.m3u8
-#EXTINF:-1,1bd174
+#EXTINF:-1 tvg-name="1bd174" tvg-logo="https://logo.catvod.com/1bd174.png" group-title="🌈 频道 2_6",1bd174
 https://vip4.ddyunbo.com/20191110/YvQVLhAg/index.m3u8
-#EXTINF:-1,1bd175
+#EXTINF:-1 tvg-name="1bd175" tvg-logo="https://logo.catvod.com/1bd175.png" group-title="🌈 频道 2_6",1bd175
 https://vip4.ddyunbo.com/20190918/dW0J9fzv/index.m3u8
-#EXTINF:-1,1bd176
+#EXTINF:-1 tvg-name="1bd176" tvg-logo="https://logo.catvod.com/1bd176.png" group-title="🌈 频道 2_6",1bd176
 https://vip4.ddyunbo.com/20191125/vpMcTD6O/index.m3u8
-#EXTINF:-1,1bd177
+#EXTINF:-1 tvg-name="1bd177" tvg-logo="https://logo.catvod.com/1bd177.png" group-title="🌈 频道 2_6",1bd177
 https://vip4.ddyunbo.com/20191203/q5YvttfY/index.m3u8
-#EXTINF:-1,1bd178
+#EXTINF:-1 tvg-name="1bd178" tvg-logo="https://logo.catvod.com/1bd178.png" group-title="🌈 频道 2_6",1bd178
 https://vip4.ddyunbo.com/20191208/7se6brgf/index.m3u8
-#EXTINF:-1,1bd179
+#EXTINF:-1 tvg-name="1bd179" tvg-logo="https://logo.catvod.com/1bd179.png" group-title="🌈 频道 2_6",1bd179
 https://vip4.ddyunbo.com/20191207/gJmk2Ml1/index.m3u8
-#EXTINF:-1,1bd180
+#EXTINF:-1 tvg-name="1bd180" tvg-logo="https://logo.catvod.com/1bd180.png" group-title="🌈 频道 2_6",1bd180
 https://vip4.ddyunbo.com/20191103/HSJrGNbs/index.m3u8
-#EXTINF:-1,1bd181
+#EXTINF:-1 tvg-name="1bd181" tvg-logo="https://logo.catvod.com/1bd181.png" group-title="🌈 频道 2_6",1bd181
 https://vip4.ddyunbo.com/20191110/YG00RmgF/index.m3u8
-#EXTINF:-1,1bd182
+#EXTINF:-1 tvg-name="1bd182" tvg-logo="https://logo.catvod.com/1bd182.png" group-title="🌈 频道 2_6",1bd182
 https://vip4.ddyunbo.com/20191203/nYjY9u2u/index.m3u8
-#EXTINF:-1,1bd183
+#EXTINF:-1 tvg-name="1bd183" tvg-logo="https://logo.catvod.com/1bd183.png" group-title="🌈 频道 2_6",1bd183
 https://vip4.ddyunbo.com/20191128/XyZVKafW/index.m3u8
-#EXTINF:-1,1bd184
+#EXTINF:-1 tvg-name="1bd184" tvg-logo="https://logo.catvod.com/1bd184.png" group-title="🌈 频道 2_6",1bd184
 https://vip4.ddyunbo.com/20190907/j4Y1yHpk/index.m3u8
-#EXTINF:-1,1bd185
+#EXTINF:-1 tvg-name="1bd185" tvg-logo="https://logo.catvod.com/1bd185.png" group-title="🌈 频道 2_6",1bd185
 https://vip4.ddyunbo.com/20191128/zrhWuPR1/index.m3u8
-#EXTINF:-1,1bd186
+#EXTINF:-1 tvg-name="1bd186" tvg-logo="https://logo.catvod.com/1bd186.png" group-title="🌈 频道 2_6",1bd186
 https://vip4.ddyunbo.com/20191110/7bbcTr2N/index.m3u8
-#EXTINF:-1,1bd187
+#EXTINF:-1 tvg-name="1bd187" tvg-logo="https://logo.catvod.com/1bd187.png" group-title="🌈 频道 2_6",1bd187
 https://vip4.ddyunbo.com/20191127/65PpXoMw/index.m3u8
-#EXTINF:-1,1bd188
+#EXTINF:-1 tvg-name="1bd188" tvg-logo="https://logo.catvod.com/1bd188.png" group-title="🌈 频道 2_6",1bd188
 https://vip4.ddyunbo.com/20191203/0ir3uu6a/index.m3u8
-#EXTINF:-1,1bd189
+#EXTINF:-1 tvg-name="1bd189" tvg-logo="https://logo.catvod.com/1bd189.png" group-title="🌈 频道 2_6",1bd189
 https://vip4.ddyunbo.com/20191029/iONkDOhp/index.m3u8
-#EXTINF:-1,1bd190
+#EXTINF:-1 tvg-name="1bd190" tvg-logo="https://logo.catvod.com/1bd190.png" group-title="🌈 频道 2_6",1bd190
 https://vip4.ddyunbo.com/20191020/Ez8f8YXO/index.m3u8
-#EXTINF:-1,1bd191
+#EXTINF:-1 tvg-name="1bd191" tvg-logo="https://logo.catvod.com/1bd191.png" group-title="🌈 频道 2_6",1bd191
 https://vip4.ddyunbo.com/20191121/EkloOcUP/index.m3u8
-#EXTINF:-1,1bd192
+#EXTINF:-1 tvg-name="1bd192" tvg-logo="https://logo.catvod.com/1bd192.png" group-title="🌈 频道 2_6",1bd192
 https://vip4.ddyunbo.com/20191206/boYeS27U/index.m3u8
-#EXTINF:-1,1bd193
+#EXTINF:-1 tvg-name="1bd193" tvg-logo="https://logo.catvod.com/1bd193.png" group-title="🌈 频道 2_6",1bd193
 https://vip4.ddyunbo.com/20191124/L8pKppVU/index.m3u8
-#EXTINF:-1,1bd194
+#EXTINF:-1 tvg-name="1bd194" tvg-logo="https://logo.catvod.com/1bd194.png" group-title="🌈 频道 2_6",1bd194
 https://vip4.ddyunbo.com/20190929/0PhfynWn/index.m3u8
-#EXTINF:-1,1bd195
+#EXTINF:-1 tvg-name="1bd195" tvg-logo="https://logo.catvod.com/1bd195.png" group-title="🌈 频道 2_6",1bd195
 https://vip4.ddyunbo.com/20191112/10y3MJVC/index.m3u8
-#EXTINF:-1,1bd196
+#EXTINF:-1 tvg-name="1bd196" tvg-logo="https://logo.catvod.com/1bd196.png" group-title="🌈 频道 2_6",1bd196
 https://vip4.ddyunbo.com/20191130/akowH7sK/index.m3u8
-#EXTINF:-1,1bd197
+#EXTINF:-1 tvg-name="1bd197" tvg-logo="https://logo.catvod.com/1bd197.png" group-title="🌈 频道 2_6",1bd197
 https://vip4.ddyunbo.com/20190924/cJ5trNUQ/index.m3u8
-#EXTINF:-1,1bd198
+#EXTINF:-1 tvg-name="1bd198" tvg-logo="https://logo.catvod.com/1bd198.png" group-title="🌈 频道 2_6",1bd198
 https://vip4.ddyunbo.com/20191130/oR4CtFQl/index.m3u8
-#EXTINF:-1,1bd199
+#EXTINF:-1 tvg-name="1bd199" tvg-logo="https://logo.catvod.com/1bd199.png" group-title="🌈 频道 2_6",1bd199
 https://vip4.ddyunbo.com/20191015/20mRMz60/index.m3u8
-#EXTINF:-1,1bd200
+#EXTINF:-1 tvg-name="1bd200" tvg-logo="https://logo.catvod.com/1bd200.png" group-title="🌈 频道 2_6",1bd200
 https://vip4.ddyunbo.com/20191205/sTKpDkTR/index.m3u8
-#EXTINF:-1,1bd201
+#EXTINF:-1 tvg-name="1bd201" tvg-logo="https://logo.catvod.com/1bd201.png" group-title="🌈 频道 2_6",1bd201
 https://vip4.ddyunbo.com/20191128/snyFis8F/index.m3u8
-#EXTINF:-1,1bd202
+#EXTINF:-1 tvg-name="1bd202" tvg-logo="https://logo.catvod.com/1bd202.png" group-title="🌈 频道 2_6",1bd202
 https://vip4.ddyunbo.com/20191203/52ec89LM/index.m3u8
-#EXTINF:-1,1bd203
+#EXTINF:-1 tvg-name="1bd203" tvg-logo="https://logo.catvod.com/1bd203.png" group-title="🌈 频道 2_6",1bd203
 https://vip4.ddyunbo.com/20191125/vweaBCJp/index.m3u8
-#EXTINF:-1,1bd204
+#EXTINF:-1 tvg-name="1bd204" tvg-logo="https://logo.catvod.com/1bd204.png" group-title="🌈 频道 2_6",1bd204
 https://vip4.ddyunbo.com/20190902/yFCyAZkG/index.m3u8
-#EXTINF:-1,1bd205
+#EXTINF:-1 tvg-name="1bd205" tvg-logo="https://logo.catvod.com/1bd205.png" group-title="🌈 频道 2_6",1bd205
 https://vip4.ddyunbo.com/20191203/ePyVUP8Y/index.m3u8
-#EXTINF:-1,1bd206
+#EXTINF:-1 tvg-name="1bd206" tvg-logo="https://logo.catvod.com/1bd206.png" group-title="🌈 频道 2_6",1bd206
 https://vip4.ddyunbo.com/20191212/yREukvC1/index.m3u8
-#EXTINF:-1,1bd207
+#EXTINF:-1 tvg-name="1bd207" tvg-logo="https://logo.catvod.com/1bd207.png" group-title="🌈 频道 2_6",1bd207
 https://vip4.ddyunbo.com/20191206/KcxaHKNK/index.m3u8
-#EXTINF:-1,1bd208
+#EXTINF:-1 tvg-name="1bd208" tvg-logo="https://logo.catvod.com/1bd208.png" group-title="🌈 频道 2_6",1bd208
 https://vip4.ddyunbo.com/20191130/aACNUDUx/index.m3u8
-#EXTINF:-1,1bd209
+#EXTINF:-1 tvg-name="1bd209" tvg-logo="https://logo.catvod.com/1bd209.png" group-title="🌈 频道 2_6",1bd209
 https://vip4.ddyunbo.com/20191110/ntzb9SWV/index.m3u8
-#EXTINF:-1,1bd210
+#EXTINF:-1 tvg-name="1bd210" tvg-logo="https://logo.catvod.com/1bd210.png" group-title="🌈 频道 2_6",1bd210
 https://vip4.ddyunbo.com/20191207/IxGltUle/index.m3u8
-#EXTINF:-1,1bd211
+#EXTINF:-1 tvg-name="1bd211" tvg-logo="https://logo.catvod.com/1bd211.png" group-title="🌈 频道 2_6",1bd211
 https://vip4.ddyunbo.com/20191110/NwogQedH/index.m3u8
-#EXTINF:-1,1bd212
+#EXTINF:-1 tvg-name="1bd212" tvg-logo="https://logo.catvod.com/1bd212.png" group-title="🌈 频道 2_6",1bd212
 https://vip4.ddyunbo.com/20191025/ugrhYcjr/index.m3u8
-#EXTINF:-1,1bd213
+#EXTINF:-1 tvg-name="1bd213" tvg-logo="https://logo.catvod.com/1bd213.png" group-title="🌈 频道 2_6",1bd213
 https://vip4.ddyunbo.com/20191127/EDyBe1NG/index.m3u8
-#EXTINF:-1,1bd214
+#EXTINF:-1 tvg-name="1bd214" tvg-logo="https://logo.catvod.com/1bd214.png" group-title="🌈 频道 2_6",1bd214
 https://vip4.ddyunbo.com/20191207/kzgjv1Sj/index.m3u8
-#EXTINF:-1,1bd215
+#EXTINF:-1 tvg-name="1bd215" tvg-logo="https://logo.catvod.com/1bd215.png" group-title="🌈 频道 2_6",1bd215
 https://vip4.ddyunbo.com/20191207/V8On9hi5/index.m3u8
-#EXTINF:-1,1bd216
+#EXTINF:-1 tvg-name="1bd216" tvg-logo="https://logo.catvod.com/1bd216.png" group-title="🌈 频道 2_6",1bd216
 https://vip4.ddyunbo.com/20191111/yM2sIi6M/index.m3u8
-#EXTINF:-1,1bd217
+#EXTINF:-1 tvg-name="1bd217" tvg-logo="https://logo.catvod.com/1bd217.png" group-title="🌈 频道 2_6",1bd217
 https://vip4.ddyunbo.com/20191111/8ps41QnU/index.m3u8
-#EXTINF:-1,1bd218
+#EXTINF:-1 tvg-name="1bd218" tvg-logo="https://logo.catvod.com/1bd218.png" group-title="🌈 频道 2_6",1bd218
 https://vip4.ddyunbo.com/20191031/ZqY7BWDT/index.m3u8
-#EXTINF:-1,1bd220
+#EXTINF:-1 tvg-name="1bd220" tvg-logo="https://logo.catvod.com/1bd220.png" group-title="🌈 频道 2_6",1bd220
 https://vip4.ddyunbo.com/20191121/xYprKCt3/index.m3u8
-#EXTINF:-1,1bd222
+#EXTINF:-1 tvg-name="1bd222" tvg-logo="https://logo.catvod.com/1bd222.png" group-title="🌈 频道 3_6",1bd222
 https://vip4.ddyunbo.com/20191128/iWncGfHM/index.m3u8
-#EXTINF:-1,1bd223
+#EXTINF:-1 tvg-name="1bd223" tvg-logo="https://logo.catvod.com/1bd223.png" group-title="🌈 频道 3_6",1bd223
 https://vip4.ddyunbo.com/20191128/ZupzK8uN/index.m3u8
-#EXTINF:-1,1bd224
+#EXTINF:-1 tvg-name="1bd224" tvg-logo="https://logo.catvod.com/1bd224.png" group-title="🌈 频道 3_6",1bd224
 https://vip4.ddyunbo.com/20191029/S6qqt8Mh/index.m3u8
-#EXTINF:-1,1bd225
+#EXTINF:-1 tvg-name="1bd225" tvg-logo="https://logo.catvod.com/1bd225.png" group-title="🌈 频道 3_6",1bd225
 https://vip4.ddyunbo.com/20191124/pQu6kMjM/index.m3u8
-#EXTINF:-1,1bd226
+#EXTINF:-1 tvg-name="1bd226" tvg-logo="https://logo.catvod.com/1bd226.png" group-title="🌈 频道 3_6",1bd226
 https://vip4.ddyunbo.com/20191130/OQCGGLU4/index.m3u8
-#EXTINF:-1,1bd227
+#EXTINF:-1 tvg-name="1bd227" tvg-logo="https://logo.catvod.com/1bd227.png" group-title="🌈 频道 3_6",1bd227
 https://vip4.ddyunbo.com/20191201/K4Kv3dAa/index.m3u8
-#EXTINF:-1,1bd228
+#EXTINF:-1 tvg-name="1bd228" tvg-logo="https://logo.catvod.com/1bd228.png" group-title="🌈 频道 3_6",1bd228
 https://vip4.ddyunbo.com/20191108/oIMSxrHo/index.m3u8
-#EXTINF:-1,1bd229
+#EXTINF:-1 tvg-name="1bd229" tvg-logo="https://logo.catvod.com/1bd229.png" group-title="🌈 频道 3_6",1bd229
 https://vip4.ddyunbo.com/20191019/qYAR1H3v/index.m3u8
-#EXTINF:-1,1bd230
+#EXTINF:-1 tvg-name="1bd230" tvg-logo="https://logo.catvod.com/1bd230.png" group-title="🌈 频道 3_6",1bd230
 https://vip4.ddyunbo.com/20191211/VzljMkkQ/index.m3u8
-#EXTINF:-1,1bd231
+#EXTINF:-1 tvg-name="1bd231" tvg-logo="https://logo.catvod.com/1bd231.png" group-title="🌈 频道 3_6",1bd231
 https://vip4.ddyunbo.com/20191130/DKO396f2/index.m3u8
-#EXTINF:-1,1bd232
+#EXTINF:-1 tvg-name="1bd232" tvg-logo="https://logo.catvod.com/1bd232.png" group-title="🌈 频道 3_6",1bd232
 https://vip4.ddyunbo.com/20191130/a659X1xA/index.m3u8
-#EXTINF:-1,1bd233
+#EXTINF:-1 tvg-name="1bd233" tvg-logo="https://logo.catvod.com/1bd233.png" group-title="🌈 频道 3_6",1bd233
 https://vip4.ddyunbo.com/20191121/u8r59V60/index.m3u8
-#EXTINF:-1,1bd234
+#EXTINF:-1 tvg-name="1bd234" tvg-logo="https://logo.catvod.com/1bd234.png" group-title="🌈 频道 3_6",1bd234
 https://vip4.ddyunbo.com/20191212/HePcXP5K/index.m3u8
-#EXTINF:-1,1bd235
+#EXTINF:-1 tvg-name="1bd235" tvg-logo="https://logo.catvod.com/1bd235.png" group-title="🌈 频道 3_6",1bd235
 https://vip4.ddyunbo.com/20190728/DwIqgHeT/index.m3u8
-#EXTINF:-1,1bd236
+#EXTINF:-1 tvg-name="1bd236" tvg-logo="https://logo.catvod.com/1bd236.png" group-title="🌈 频道 3_6",1bd236
 https://vip4.ddyunbo.com/20191118/Scm0EnRV/index.m3u8
-#EXTINF:-1,1bd237
+#EXTINF:-1 tvg-name="1bd237" tvg-logo="https://logo.catvod.com/1bd237.png" group-title="🌈 频道 3_6",1bd237
 https://vip4.ddyunbo.com/20191128/ME2HqHFH/index.m3u8
-#EXTINF:-1,1bd238
+#EXTINF:-1 tvg-name="1bd238" tvg-logo="https://logo.catvod.com/1bd238.png" group-title="🌈 频道 3_6",1bd238
 https://vip4.ddyunbo.com/20191023/soiNyMvv/index.m3u8
-#EXTINF:-1,1bd239
+#EXTINF:-1 tvg-name="1bd239" tvg-logo="https://logo.catvod.com/1bd239.png" group-title="🌈 频道 3_6",1bd239
 https://vip4.ddyunbo.com/20191130/inbbYKzO/index.m3u8
-#EXTINF:-1,1bd241
+#EXTINF:-1 tvg-name="1bd241" tvg-logo="https://logo.catvod.com/1bd241.png" group-title="🌈 频道 3_6",1bd241
 https://vip4.ddyunbo.com/20191121/084gIuVz/index.m3u8
-#EXTINF:-1,1bd243
+#EXTINF:-1 tvg-name="1bd243" tvg-logo="https://logo.catvod.com/1bd243.png" group-title="🌈 频道 3_6",1bd243
 https://vip4.ddyunbo.com/20191028/bnoZp1dl/index.m3u8
-#EXTINF:-1,1bd245
+#EXTINF:-1 tvg-name="1bd245" tvg-logo="https://logo.catvod.com/1bd245.png" group-title="🌈 频道 3_6",1bd245
 https://vip4.ddyunbo.com/20190722/i3pcddxz/index.m3u8
-#EXTINF:-1,1bd246
+#EXTINF:-1 tvg-name="1bd246" tvg-logo="https://logo.catvod.com/1bd246.png" group-title="🌈 频道 3_6",1bd246
 https://vip4.ddyunbo.com/20191026/dZeD0hLR/index.m3u8
-#EXTINF:-1,1bd247
+#EXTINF:-1 tvg-name="1bd247" tvg-logo="https://logo.catvod.com/1bd247.png" group-title="🌈 频道 3_6",1bd247
 https://vip4.ddyunbo.com/20191110/KRbTUVDE/index.m3u8
-#EXTINF:-1,1bd249
+#EXTINF:-1 tvg-name="1bd249" tvg-logo="https://logo.catvod.com/1bd249.png" group-title="🌈 频道 3_6",1bd249
 https://vip4.ddyunbo.com/20191102/E6lR5iaR/index.m3u8
-#EXTINF:-1,1bd250
+#EXTINF:-1 tvg-name="1bd250" tvg-logo="https://logo.catvod.com/1bd250.png" group-title="🌈 频道 3_6",1bd250
 https://vip4.ddyunbo.com/20190820/r53WGvGC/index.m3u8
-#EXTINF:-1,1bd251
+#EXTINF:-1 tvg-name="1bd251" tvg-logo="https://logo.catvod.com/1bd251.png" group-title="🌈 频道 3_6",1bd251
 https://vip4.ddyunbo.com/20191212/P8ADFznS/index.m3u8
-#EXTINF:-1,1bd254
+#EXTINF:-1 tvg-name="1bd254" tvg-logo="https://logo.catvod.com/1bd254.png" group-title="🌈 频道 3_6",1bd254
 https://vip4.ddyunbo.com/20191206/Y5TgrZUy/index.m3u8
-#EXTINF:-1,1bd255
+#EXTINF:-1 tvg-name="1bd255" tvg-logo="https://logo.catvod.com/1bd255.png" group-title="🌈 频道 3_6",1bd255
 https://vip4.ddyunbo.com/20191128/GmCOlAxE/index.m3u8
-#EXTINF:-1,1bd257
+#EXTINF:-1 tvg-name="1bd257" tvg-logo="https://logo.catvod.com/1bd257.png" group-title="🌈 频道 3_6",1bd257
 https://vip4.ddyunbo.com/20191211/jstuOIyD/index.m3u8
-#EXTINF:-1,1bd258
+#EXTINF:-1 tvg-name="1bd258" tvg-logo="https://logo.catvod.com/1bd258.png" group-title="🌈 频道 3_6",1bd258
 https://vip4.ddyunbo.com/20190810/RdevEXDi/index.m3u8
-#EXTINF:-1,1bd259
+#EXTINF:-1 tvg-name="1bd259" tvg-logo="https://logo.catvod.com/1bd259.png" group-title="🌈 频道 3_6",1bd259
 https://vip4.ddyunbo.com/20191206/90tduWjm/index.m3u8
-#EXTINF:-1,1bd260
+#EXTINF:-1 tvg-name="1bd260" tvg-logo="https://logo.catvod.com/1bd260.png" group-title="🌈 频道 3_6",1bd260
 https://vip4.ddyunbo.com/20191201/536eRGt7/index.m3u8
-#EXTINF:-1,1bd264
+#EXTINF:-1 tvg-name="1bd264" tvg-logo="https://logo.catvod.com/1bd264.png" group-title="🌈 频道 3_6",1bd264
 https://vip4.ddyunbo.com/20191201/YEg5oWil/index.m3u8
-#EXTINF:-1,1bd266
+#EXTINF:-1 tvg-name="1bd266" tvg-logo="https://logo.catvod.com/1bd266.png" group-title="🌈 频道 3_6",1bd266
 https://vip4.ddyunbo.com/20190801/HsTzj1M0/index.m3u8
-#EXTINF:-1,1bd267
+#EXTINF:-1 tvg-name="1bd267" tvg-logo="https://logo.catvod.com/1bd267.png" group-title="🌈 频道 3_6",1bd267
 https://vip4.ddyunbo.com/20190830/B57lK9fN/index.m3u8
-#EXTINF:-1,1bd268
+#EXTINF:-1 tvg-name="1bd268" tvg-logo="https://logo.catvod.com/1bd268.png" group-title="🌈 频道 3_6",1bd268
 https://vip4.ddyunbo.com/20191208/BS0JwI5Z/index.m3u8
-#EXTINF:-1,1bd269
+#EXTINF:-1 tvg-name="1bd269" tvg-logo="https://logo.catvod.com/1bd269.png" group-title="🌈 频道 3_6",1bd269
 https://vip4.ddyunbo.com/20191206/UJGFkoQP/index.m3u8
-#EXTINF:-1,1bd270
+#EXTINF:-1 tvg-name="1bd270" tvg-logo="https://logo.catvod.com/1bd270.png" group-title="🌈 频道 3_6",1bd270
 https://vip4.ddyunbo.com/20191207/pOgUw8vR/index.m3u8
-#EXTINF:-1,1bd271
+#EXTINF:-1 tvg-name="1bd271" tvg-logo="https://logo.catvod.com/1bd271.png" group-title="🌈 频道 3_6",1bd271
 https://vip4.ddyunbo.com/20191201/mIG17Z5S/index.m3u8
-#EXTINF:-1,1bd272
+#EXTINF:-1 tvg-name="1bd272" tvg-logo="https://logo.catvod.com/1bd272.png" group-title="🌈 频道 3_6",1bd272
 https://vip4.ddyunbo.com/20190721/xUX3F0o1/index.m3u8
-#EXTINF:-1,1bd273
+#EXTINF:-1 tvg-name="1bd273" tvg-logo="https://logo.catvod.com/1bd273.png" group-title="🌈 频道 3_6",1bd273
 https://vip4.ddyunbo.com/20191013/aM9bNES7/index.m3u8
-#EXTINF:-1,1bd274
+#EXTINF:-1 tvg-name="1bd274" tvg-logo="https://logo.catvod.com/1bd274.png" group-title="🌈 频道 3_6",1bd274
 https://vip4.ddyunbo.com/20191102/thRqkr3J/index.m3u8
-#EXTINF:-1,1bd275
+#EXTINF:-1 tvg-name="1bd275" tvg-logo="https://logo.catvod.com/1bd275.png" group-title="🌈 频道 3_6",1bd275
 https://vip4.ddyunbo.com/20191008/ONnuL7h3/index.m3u8
-#EXTINF:-1,1bd276
+#EXTINF:-1 tvg-name="1bd276" tvg-logo="https://logo.catvod.com/1bd276.png" group-title="🌈 频道 3_6",1bd276
 https://vip4.ddyunbo.com/20190904/f9ADZ1CY/index.m3u8
-#EXTINF:-1,1bd277
+#EXTINF:-1 tvg-name="1bd277" tvg-logo="https://logo.catvod.com/1bd277.png" group-title="🌈 频道 3_6",1bd277
 https://vip4.ddyunbo.com/20190904/UfqniQi1/index.m3u8
-#EXTINF:-1,1bd278
+#EXTINF:-1 tvg-name="1bd278" tvg-logo="https://logo.catvod.com/1bd278.png" group-title="🌈 频道 3_6",1bd278
 https://vip4.ddyunbo.com/20191211/FFE0h29v/index.m3u8
-#EXTINF:-1,1bd279
+#EXTINF:-1 tvg-name="1bd279" tvg-logo="https://logo.catvod.com/1bd279.png" group-title="🌈 频道 3_6",1bd279
 https://vip4.ddyunbo.com/20191203/nX7ffHF1/index.m3u8
-#EXTINF:-1,1bd280
+#EXTINF:-1 tvg-name="1bd280" tvg-logo="https://logo.catvod.com/1bd280.png" group-title="🌈 频道 3_6",1bd280
 https://vip4.ddyunbo.com/20191121/VmpUGI2G/index.m3u8
-#EXTINF:-1,1bd281
+#EXTINF:-1 tvg-name="1bd281" tvg-logo="https://logo.catvod.com/1bd281.png" group-title="🌈 频道 3_6",1bd281
 https://vip4.ddyunbo.com/20190909/jRVMH9sc/index.m3u8
-#EXTINF:-1,1bd282
+#EXTINF:-1 tvg-name="1bd282" tvg-logo="https://logo.catvod.com/1bd282.png" group-title="🌈 频道 3_6",1bd282
 https://vip4.ddyunbo.com/20191209/cALP0OD4/index.m3u8
-#EXTINF:-1,1bd283
+#EXTINF:-1 tvg-name="1bd283" tvg-logo="https://logo.catvod.com/1bd283.png" group-title="🌈 频道 3_6",1bd283
 https://vip4.ddyunbo.com/20191128/xrAM7jTH/index.m3u8
-#EXTINF:-1,1bd284
+#EXTINF:-1 tvg-name="1bd284" tvg-logo="https://logo.catvod.com/1bd284.png" group-title="🌈 频道 3_6",1bd284
 https://vip4.ddyunbo.com/20191121/ChPdFva9/index.m3u8
-#EXTINF:-1,1bd285
+#EXTINF:-1 tvg-name="1bd285" tvg-logo="https://logo.catvod.com/1bd285.png" group-title="🌈 频道 3_6",1bd285
 https://vip4.ddyunbo.com/20191121/AQ82xuGS/index.m3u8
-#EXTINF:-1,1bd286
+#EXTINF:-1 tvg-name="1bd286" tvg-logo="https://logo.catvod.com/1bd286.png" group-title="🌈 频道 3_6",1bd286
 https://vip4.ddyunbo.com/20191121/0jjk6fKn/index.m3u8
-#EXTINF:-1,1bd287
+#EXTINF:-1 tvg-name="1bd287" tvg-logo="https://logo.catvod.com/1bd287.png" group-title="🌈 频道 3_6",1bd287
 https://vip4.ddyunbo.com/20191201/XjqVWCLB/index.m3u8
-#EXTINF:-1,1bd288
+#EXTINF:-1 tvg-name="1bd288" tvg-logo="https://logo.catvod.com/1bd288.png" group-title="🌈 频道 3_6",1bd288
 https://vip4.ddyunbo.com/20190815/I8xSVL3G/index.m3u8
-#EXTINF:-1,1bd289
+#EXTINF:-1 tvg-name="1bd289" tvg-logo="https://logo.catvod.com/1bd289.png" group-title="🌈 频道 3_6",1bd289
 https://vip4.ddyunbo.com/20191121/V7KpEPJu/index.m3u8
-#EXTINF:-1,1bd291
+#EXTINF:-1 tvg-name="1bd291" tvg-logo="https://logo.catvod.com/1bd291.png" group-title="🌈 频道 3_6",1bd291
 https://vip4.ddyunbo.com/20191011/UUuK75ff/index.m3u8
-#EXTINF:-1,1bd292
+#EXTINF:-1 tvg-name="1bd292" tvg-logo="https://logo.catvod.com/1bd292.png" group-title="🌈 频道 3_6",1bd292
 https://vip4.ddyunbo.com/20190810/henyVtws/index.m3u8
-#EXTINF:-1,1bd293
+#EXTINF:-1 tvg-name="1bd293" tvg-logo="https://logo.catvod.com/1bd293.png" group-title="🌈 频道 3_6",1bd293
 https://vip4.ddyunbo.com/20191009/kdxiQUUj/index.m3u8
-#EXTINF:-1,1bd294
+#EXTINF:-1 tvg-name="1bd294" tvg-logo="https://logo.catvod.com/1bd294.png" group-title="🌈 频道 3_6",1bd294
 https://vip4.ddyunbo.com/20191112/qEl4l9Wn/index.m3u8
-#EXTINF:-1,1bd295
+#EXTINF:-1 tvg-name="1bd295" tvg-logo="https://logo.catvod.com/1bd295.png" group-title="🌈 频道 3_6",1bd295
 https://vip4.ddyunbo.com/20191203/T0WINSep/index.m3u8
-#EXTINF:-1,1bd297
+#EXTINF:-1 tvg-name="1bd297" tvg-logo="https://logo.catvod.com/1bd297.png" group-title="🌈 频道 3_6",1bd297
 https://vip4.ddyunbo.com/20191025/sJo8DfKz/index.m3u8
-#EXTINF:-1,1bd298
+#EXTINF:-1 tvg-name="1bd298" tvg-logo="https://logo.catvod.com/1bd298.png" group-title="🌈 频道 3_6",1bd298
 https://vip4.ddyunbo.com/20191023/hLjlU9Vt/index.m3u8
-#EXTINF:-1,1bd299
+#EXTINF:-1 tvg-name="1bd299" tvg-logo="https://logo.catvod.com/1bd299.png" group-title="🌈 频道 3_6",1bd299
 https://vip4.ddyunbo.com/20191201/VqS0cJUT/index.m3u8
-#EXTINF:-1,1bd300
+#EXTINF:-1 tvg-name="1bd300" tvg-logo="https://logo.catvod.com/1bd300.png" group-title="🌈 频道 3_6",1bd300
 https://vip4.ddyunbo.com/20191111/V2iWnNxU/index.m3u8
-#EXTINF:-1,1bd301
+#EXTINF:-1 tvg-name="1bd301" tvg-logo="https://logo.catvod.com/1bd301.png" group-title="🌈 频道 3_6",1bd301
 https://vip4.ddyunbo.com/20191213/J6Cv9gPJ/index.m3u8
-#EXTINF:-1,1bd302
+#EXTINF:-1 tvg-name="1bd302" tvg-logo="https://logo.catvod.com/1bd302.png" group-title="🌈 频道 3_6",1bd302
 https://vip4.ddyunbo.com/20191203/U2SNJ3X7/index.m3u8
-#EXTINF:-1,1bd303
+#EXTINF:-1 tvg-name="1bd303" tvg-logo="https://logo.catvod.com/1bd303.png" group-title="🌈 频道 3_6",1bd303
 https://vip4.ddyunbo.com/20190916/nDbO6fKD/index.m3u8
-#EXTINF:-1,1bd304
+#EXTINF:-1 tvg-name="1bd304" tvg-logo="https://logo.catvod.com/1bd304.png" group-title="🌈 频道 3_6",1bd304
 https://vip4.ddyunbo.com/20190918/PEhQHMj2/index.m3u8
-#EXTINF:-1,1bd305
+#EXTINF:-1 tvg-name="1bd305" tvg-logo="https://logo.catvod.com/1bd305.png" group-title="🌈 频道 3_6",1bd305
 https://vip4.ddyunbo.com/20191128/dkDIOfQC/index.m3u8
-#EXTINF:-1,1bd306
+#EXTINF:-1 tvg-name="1bd306" tvg-logo="https://logo.catvod.com/1bd306.png" group-title="🌈 频道 3_6",1bd306
 https://vip4.ddyunbo.com/20191130/c6PcG5MJ/index.m3u8
-#EXTINF:-1,1bd307
+#EXTINF:-1 tvg-name="1bd307" tvg-logo="https://logo.catvod.com/1bd307.png" group-title="🌈 频道 3_6",1bd307
 https://vip4.ddyunbo.com/20191211/ch4KRvFi/index.m3u8
-#EXTINF:-1,1bd308
+#EXTINF:-1 tvg-name="1bd308" tvg-logo="https://logo.catvod.com/1bd308.png" group-title="🌈 频道 3_6",1bd308
 https://vip4.ddyunbo.com/20191208/9twDrLY8/index.m3u8
-#EXTINF:-1,1bd309
+#EXTINF:-1 tvg-name="1bd309" tvg-logo="https://logo.catvod.com/1bd309.png" group-title="🌈 频道 3_6",1bd309
 https://vip4.ddyunbo.com/20191111/DlyNFtz9/index.m3u8
-#EXTINF:-1,1bd310
+#EXTINF:-1 tvg-name="1bd310" tvg-logo="https://logo.catvod.com/1bd310.png" group-title="🌈 频道 3_6",1bd310
 https://vip4.ddyunbo.com/20191106/yFE2T1bI/index.m3u8
-#EXTINF:-1,1bd311
+#EXTINF:-1 tvg-name="1bd311" tvg-logo="https://logo.catvod.com/1bd311.png" group-title="🌈 频道 3_6",1bd311
 https://vip4.ddyunbo.com/20191128/0UFCYn1m/index.m3u8
-#EXTINF:-1,1bd312
+#EXTINF:-1 tvg-name="1bd312" tvg-logo="https://logo.catvod.com/1bd312.png" group-title="🌈 频道 3_6",1bd312
 https://vip4.ddyunbo.com/20190724/6R2vmRcq/index.m3u8
-#EXTINF:-1,1bd313
+#EXTINF:-1 tvg-name="1bd313" tvg-logo="https://logo.catvod.com/1bd313.png" group-title="🌈 频道 3_6",1bd313
 https://vip4.ddyunbo.com/20191208/2uX0tXFP/index.m3u8
-#EXTINF:-1,1bd314
+#EXTINF:-1 tvg-name="1bd314" tvg-logo="https://logo.catvod.com/1bd314.png" group-title="🌈 频道 3_6",1bd314
 https://vip4.ddyunbo.com/20191112/xgfe7yP7/index.m3u8
-#EXTINF:-1,1bd315
+#EXTINF:-1 tvg-name="1bd315" tvg-logo="https://logo.catvod.com/1bd315.png" group-title="🌈 频道 3_6",1bd315
 https://vip4.ddyunbo.com/20191204/vbdhMyr9/index.m3u8
-#EXTINF:-1,1bd316
+#EXTINF:-1 tvg-name="1bd316" tvg-logo="https://logo.catvod.com/1bd316.png" group-title="🌈 频道 3_6",1bd316
 https://vip4.ddyunbo.com/20191201/QJW4E3Tf/index.m3u8
-#EXTINF:-1,1bd317
+#EXTINF:-1 tvg-name="1bd317" tvg-logo="https://logo.catvod.com/1bd317.png" group-title="🌈 频道 3_6",1bd317
 https://vip4.ddyunbo.com/20191211/mKHj4MjF/index.m3u8
-#EXTINF:-1,1bd318
+#EXTINF:-1 tvg-name="1bd318" tvg-logo="https://logo.catvod.com/1bd318.png" group-title="🌈 频道 3_6",1bd318
 https://vip4.ddyunbo.com/20191209/gOW71wsS/index.m3u8
-#EXTINF:-1,1bd319
+#EXTINF:-1 tvg-name="1bd319" tvg-logo="https://logo.catvod.com/1bd319.png" group-title="🌈 频道 3_6",1bd319
 https://vip4.ddyunbo.com/20191001/LrwArd97/index.m3u8
-#EXTINF:-1,1bd320
+#EXTINF:-1 tvg-name="1bd320" tvg-logo="https://logo.catvod.com/1bd320.png" group-title="🌈 频道 3_6",1bd320
 https://vip4.ddyunbo.com/20191206/HImhhVBD/index.m3u8
-#EXTINF:-1,1bd321
+#EXTINF:-1 tvg-name="1bd321" tvg-logo="https://logo.catvod.com/1bd321.png" group-title="🌈 频道 3_6",1bd321
 https://vip4.ddyunbo.com/20191201/AYodI1bN/index.m3u8
-#EXTINF:-1,1bd322
+#EXTINF:-1 tvg-name="1bd322" tvg-logo="https://logo.catvod.com/1bd322.png" group-title="🌈 频道 3_6",1bd322
 https://vip4.ddyunbo.com/20211006/x8dMsl3i/index.m3u8
-#EXTINF:-1,1bd323
+#EXTINF:-1 tvg-name="1bd323" tvg-logo="https://logo.catvod.com/1bd323.png" group-title="🌈 频道 3_6",1bd323
 https://vip4.ddyunbo.com/20211005/9BfuzBaG/index.m3u8
-#EXTINF:-1,1bd324
+#EXTINF:-1 tvg-name="1bd324" tvg-logo="https://logo.catvod.com/1bd324.png" group-title="🌈 频道 3_6",1bd324
 https://vip4.ddyunbo.com/20211006/NgiMMbV3/index.m3u8
-#EXTINF:-1,1bd325
+#EXTINF:-1 tvg-name="1bd325" tvg-logo="https://logo.catvod.com/1bd325.png" group-title="🌈 频道 3_6",1bd325
 https://vip4.ddyunbo.com/20211006/FNrnxY3r/index.m3u8
-#EXTINF:-1,1bd327
+#EXTINF:-1 tvg-name="1bd327" tvg-logo="https://logo.catvod.com/1bd327.png" group-title="🌈 频道 3_6",1bd327
 https://vip4.ddyunbo.com/20211006/pAhqYtnW/index.m3u8
-#EXTINF:-1,1bd328
+#EXTINF:-1 tvg-name="1bd328" tvg-logo="https://logo.catvod.com/1bd328.png" group-title="🌈 频道 3_6",1bd328
 https://vip4.ddyunbo.com/20210808/pvN4nGjB/index.m3u8
-#EXTINF:-1,1bd329
+#EXTINF:-1 tvg-name="1bd329" tvg-logo="https://logo.catvod.com/1bd329.png" group-title="🌈 频道 3_6",1bd329
 https://vip4.ddyunbo.com/20210808/iM7uOVC4/index.m3u8
-#EXTINF:-1,1bd330
+#EXTINF:-1 tvg-name="1bd330" tvg-logo="https://logo.catvod.com/1bd330.png" group-title="🌈 频道 3_6",1bd330
 https://vip4.ddyunbo.com/20210808/QiB3oz7E/index.m3u8
-#EXTINF:-1,1bd331
+#EXTINF:-1 tvg-name="1bd331" tvg-logo="https://logo.catvod.com/1bd331.png" group-title="🌈 频道 3_6",1bd331
 https://vip4.ddyunbo.com/20210808/KeCR8u5s/index.m3u8
-#EXTINF:-1,1bd333
+#EXTINF:-1 tvg-name="1bd333" tvg-logo="https://logo.catvod.com/1bd333.png" group-title="🌈 频道 3_6",1bd333
 https://vip4.ddyunbo.com/20210809/fVMpNGwr/index.m3u8
-#EXTINF:-1,1bd335
+#EXTINF:-1 tvg-name="1bd335" tvg-logo="https://logo.catvod.com/1bd335.png" group-title="🌈 频道 3_6",1bd335
 https://vip4.ddyunbo.com/20210626/UMA1e0H4/index.m3u8
-#EXTINF:-1,1bd337
+#EXTINF:-1 tvg-name="1bd337" tvg-logo="https://logo.catvod.com/1bd337.png" group-title="🌈 频道 3_6",1bd337
 https://vip4.ddyunbo.com/20210626/I6HW1lPD/index.m3u8
-#EXTINF:-1,1bd338
+#EXTINF:-1 tvg-name="1bd338" tvg-logo="https://logo.catvod.com/1bd338.png" group-title="🌈 频道 3_6",1bd338
 https://vip4.ddyunbo.com/20210626/sHREWYut/index.m3u8
-#EXTINF:-1,1bd340
+#EXTINF:-1 tvg-name="1bd340" tvg-logo="https://logo.catvod.com/1bd340.png" group-title="🌈 频道 3_6",1bd340
 https://vip4.ddyunbo.com/20210523/adSLcr5u/index.m3u8
-#EXTINF:-1,1bd341
+#EXTINF:-1 tvg-name="1bd341" tvg-logo="https://logo.catvod.com/1bd341.png" group-title="🌈 频道 3_6",1bd341
 https://vip4.ddyunbo.com/20210610/TGBrJEHJ/index.m3u8
-#EXTINF:-1,1bd342
+#EXTINF:-1 tvg-name="1bd342" tvg-logo="https://logo.catvod.com/1bd342.png" group-title="🌈 频道 3_6",1bd342
 https://vip4.ddyunbo.com/20211006/4wf2DOwX/index.m3u8
-#EXTINF:-1,1bd343
+#EXTINF:-1 tvg-name="1bd343" tvg-logo="https://logo.catvod.com/1bd343.png" group-title="🌈 频道4_6",1bd343
 https://vip4.ddyunbo.com/20211006/S1HzUAlb/index.m3u8
-#EXTINF:-1,1bd344
+#EXTINF:-1 tvg-name="1bd344" tvg-logo="https://logo.catvod.com/1bd344.png" group-title="🌈 频道4_6",1bd344
 https://vip4.ddyunbo.com/20210619/3KvERjbU/index.m3u8
-#EXTINF:-1,1bd345
+#EXTINF:-1 tvg-name="1bd345" tvg-logo="https://logo.catvod.com/1bd345.png" group-title="🌈 频道4_6",1bd345
 https://vip4.ddyunbo.com/20210619/t7EOBSZb/index.m3u8
-#EXTINF:-1,1bd346
+#EXTINF:-1 tvg-name="1bd346" tvg-logo="https://logo.catvod.com/1bd346.png" group-title="🌈 频道4_6",1bd346
 https://vip4.ddyunbo.com/20210809/3c18qdzS/index.m3u8
-#EXTINF:-1,1bd347
+#EXTINF:-1 tvg-name="1bd347" tvg-logo="https://logo.catvod.com/1bd347.png" group-title="🌈 频道4_6",1bd347
 https://vip4.ddyunbo.com/20210808/t5vrP3sm/index.m3u8
-#EXTINF:-1,1bd348
+#EXTINF:-1 tvg-name="1bd348" tvg-logo="https://logo.catvod.com/1bd348.png" group-title="🌈 频道4_6",1bd348
 https://vip4.ddyunbo.com/20210808/h2QRT83y/index.m3u8
-#EXTINF:-1,1bd349
+#EXTINF:-1 tvg-name="1bd349" tvg-logo="https://logo.catvod.com/1bd349.png" group-title="🌈 频道4_6",1bd349
 https://vip4.ddyunbo.com/20210808/WKrOPLMT/index.m3u8
-#EXTINF:-1,1bd350
+#EXTINF:-1 tvg-name="1bd350" tvg-logo="https://logo.catvod.com/1bd350.png" group-title="🌈 频道4_6",1bd350
 https://vip4.ddyunbo.com/20210808/TBBmwcYf/index.m3u8
-#EXTINF:-1,1bd351
+#EXTINF:-1 tvg-name="1bd351" tvg-logo="https://logo.catvod.com/1bd351.png" group-title="🌈 频道4_6",1bd351
 https://vip4.ddyunbo.com/20210809/kGq8g94Z/index.m3u8
-#EXTINF:-1,1bd352
+#EXTINF:-1 tvg-name="1bd352" tvg-logo="https://logo.catvod.com/1bd352.png" group-title="🌈 频道4_6",1bd352
 https://vip4.ddyunbo.com/20210809/fcD2WcWE/index.m3u8
-#EXTINF:-1,1bd353
+#EXTINF:-1 tvg-name="1bd353" tvg-logo="https://logo.catvod.com/1bd353.png" group-title="🌈 频道4_6",1bd353
 https://vip4.ddyunbo.com/20210922/WuUJGEX4/index.m3u8
-#EXTINF:-1,1bd354
+#EXTINF:-1 tvg-name="1bd354" tvg-logo="https://logo.catvod.com/1bd354.png" group-title="🌈 频道4_6",1bd354
 https://vip4.ddyunbo.com/20210610/RrSUX6KV/index.m3u8
-#EXTINF:-1,1bd355
+#EXTINF:-1 tvg-name="1bd355" tvg-logo="https://logo.catvod.com/1bd355.png" group-title="🌈 频道4_6",1bd355
 https://vip4.ddyunbo.com/20210922/cZJD52io/index.m3u8
-#EXTINF:-1,1bd356
+#EXTINF:-1 tvg-name="1bd356" tvg-logo="https://logo.catvod.com/1bd356.png" group-title="🌈 频道4_6",1bd356
 https://vip4.ddyunbo.com/20210922/kqQTajAW/index.m3u8
-#EXTINF:-1,1bd357
+#EXTINF:-1 tvg-name="1bd357" tvg-logo="https://logo.catvod.com/1bd357.png" group-title="🌈 频道4_6",1bd357
 https://vip4.ddyunbo.com/20210922/LXYarClf/index.m3u8
-#EXTINF:-1,1bd358
+#EXTINF:-1 tvg-name="1bd358" tvg-logo="https://logo.catvod.com/1bd358.png" group-title="🌈 频道4_6",1bd358
 https://vip4.ddyunbo.com/20211006/mEs6RYE3/index.m3u8
-#EXTINF:-1,1bd359
+#EXTINF:-1 tvg-name="1bd359" tvg-logo="https://logo.catvod.com/1bd359.png" group-title="🌈 频道4_6",1bd359
 https://vip4.ddyunbo.com/20210626/Z5K4lMMI/index.m3u8
-#EXTINF:-1,1bd360
+#EXTINF:-1 tvg-name="1bd360" tvg-logo="https://logo.catvod.com/1bd360.png" group-title="🌈 频道4_6",1bd360
 https://vip4.ddyunbo.com/20211006/HUj8d2tf/index.m3u8
-#EXTINF:-1,1bd361
+#EXTINF:-1 tvg-name="1bd361" tvg-logo="https://logo.catvod.com/1bd361.png" group-title="🌈 频道4_6",1bd361
 https://vip4.ddyunbo.com/20211006/To4MV7TZ/index.m3u8
-#EXTINF:-1,1bd363
+#EXTINF:-1 tvg-name="1bd363" tvg-logo="https://logo.catvod.com/1bd363.png" group-title="🌈 频道4_6",1bd363
 https://vip4.ddyunbo.com/20211006/Dn8ngt8e/index.m3u8
-#EXTINF:-1,1bd364
+#EXTINF:-1 tvg-name="1bd364" tvg-logo="https://logo.catvod.com/1bd364.png" group-title="🌈 频道4_6",1bd364
 https://vip4.ddyunbo.com/20211006/Kow97Lx6/index.m3u8
-#EXTINF:-1,1bd365
+#EXTINF:-1 tvg-name="1bd365" tvg-logo="https://logo.catvod.com/1bd365.png" group-title="🌈 频道4_6",1bd365
 https://vip4.ddyunbo.com/20211006/UPwWXKl9/index.m3u8
-#EXTINF:-1,1bd366
+#EXTINF:-1 tvg-name="1bd366" tvg-logo="https://logo.catvod.com/1bd366.png" group-title="🌈 频道4_6",1bd366
 https://vip4.ddyunbo.com/20211006/Y62zpf6L/index.m3u8
-#EXTINF:-1,1bd367
+#EXTINF:-1 tvg-name="1bd367" tvg-logo="https://logo.catvod.com/1bd367.png" group-title="🌈 频道4_6",1bd367
 https://vip4.ddyunbo.com/20211005/SYDd5xWr/index.m3u8
-#EXTINF:-1,1bd368
+#EXTINF:-1 tvg-name="1bd368" tvg-logo="https://logo.catvod.com/1bd368.png" group-title="🌈 频道4_6",1bd368
 https://vip4.ddyunbo.com/20211005/n9LPBhif/index.m3u8
-#EXTINF:-1,1bd369
+#EXTINF:-1 tvg-name="1bd369" tvg-logo="https://logo.catvod.com/1bd369.png" group-title="🌈 频道4_6",1bd369
 https://vip4.ddyunbo.com/20211005/bTBA2rYf/index.m3u8
-#EXTINF:-1,1bd370
+#EXTINF:-1 tvg-name="1bd370" tvg-logo="https://logo.catvod.com/1bd370.png" group-title="🌈 频道4_6",1bd370
 https://vip4.ddyunbo.com/20211005/Hb6lDfFe/index.m3u8
-#EXTINF:-1,1bd371
+#EXTINF:-1 tvg-name="1bd371" tvg-logo="https://logo.catvod.com/1bd371.png" group-title="🌈 频道4_6",1bd371
 https://vip4.ddyunbo.com/20211006/boVFiInT/index.m3u8
-#EXTINF:-1,1bd372
+#EXTINF:-1 tvg-name="1bd372" tvg-logo="https://logo.catvod.com/1bd372.png" group-title="🌈 频道4_6",1bd372
 https://vip4.ddyunbo.com/20211006/nXs8uftR/index.m3u8
-#EXTINF:-1,1bd373
+#EXTINF:-1 tvg-name="1bd373" tvg-logo="https://logo.catvod.com/1bd373.png" group-title="🌈 频道4_6",1bd373
 https://vip4.ddyunbo.com/20210626/JXkUNpq5/index.m3u8
-#EXTINF:-1,1bd374
+#EXTINF:-1 tvg-name="1bd374" tvg-logo="https://logo.catvod.com/1bd374.png" group-title="🌈 频道4_6",1bd374
 https://vip4.ddyunbo.com/20211006/K5qZ5lRb/index.m3u8
-#EXTINF:-1,1bd375
+#EXTINF:-1 tvg-name="1bd375" tvg-logo="https://logo.catvod.com/1bd375.png" group-title="🌈 频道4_6",1bd375
 https://vip4.ddyunbo.com/20211006/KHQXHnfG/index.m3u8
-#EXTINF:-1,1bd376
+#EXTINF:-1 tvg-name="1bd376" tvg-logo="https://logo.catvod.com/1bd376.png" group-title="🌈 频道4_6",1bd376
 https://vip4.ddyunbo.com/20211006/Hy7MlvJg/index.m3u8
-#EXTINF:-1,1bd377
+#EXTINF:-1 tvg-name="1bd377" tvg-logo="https://logo.catvod.com/1bd377.png" group-title="🌈 频道4_6",1bd377
 https://vip4.ddyunbo.com/20211006/Hj6NmNOO/index.m3u8
-#EXTINF:-1,1bd378
+#EXTINF:-1 tvg-name="1bd378" tvg-logo="https://logo.catvod.com/1bd378.png" group-title="🌈 频道4_6",1bd378
 https://vip4.ddyunbo.com/20211006/zVy5Zqsf/index.m3u8
-#EXTINF:-1,1bd379
+#EXTINF:-1 tvg-name="1bd379" tvg-logo="https://logo.catvod.com/1bd379.png" group-title="🌈 频道4_6",1bd379
 https://vip4.ddyunbo.com/20211006/tdv4D0Oe/index.m3u8
-#EXTINF:-1,1bd380
+#EXTINF:-1 tvg-name="1bd380" tvg-logo="https://logo.catvod.com/1bd380.png" group-title="🌈 频道4_6",1bd380
 https://vip4.ddyunbo.com/20211006/UBUyo0Ja/index.m3u8
-#EXTINF:-1,1bd381
+#EXTINF:-1 tvg-name="1bd381" tvg-logo="https://logo.catvod.com/1bd381.png" group-title="🌈 频道4_6",1bd381
 https://vip4.ddyunbo.com/20211006/ODWxeXLJ/index.m3u8
-#EXTINF:-1,1bd382
+#EXTINF:-1 tvg-name="1bd382" tvg-logo="https://logo.catvod.com/1bd382.png" group-title="🌈 频道4_6",1bd382
 https://vip4.ddyunbo.com/20210808/N0Fit2w5/index.m3u8
-#EXTINF:-1,1bd383
+#EXTINF:-1 tvg-name="1bd383" tvg-logo="https://logo.catvod.com/1bd383.png" group-title="🌈 频道4_6",1bd383
 https://vip4.ddyunbo.com/20210808/NaJo7Bk7/index.m3u8
-#EXTINF:-1,1bd384
+#EXTINF:-1 tvg-name="1bd384" tvg-logo="https://logo.catvod.com/1bd384.png" group-title="🌈 频道4_6",1bd384
 https://vip4.ddyunbo.com/20211006/RyF5AYUB/index.m3u8
-#EXTINF:-1,1bd385
+#EXTINF:-1 tvg-name="1bd385" tvg-logo="https://logo.catvod.com/1bd385.png" group-title="🌈 频道4_6",1bd385
 https://vip4.ddyunbo.com/20211006/U9fDn8yT/index.m3u8
-#EXTINF:-1,1bd386
+#EXTINF:-1 tvg-name="1bd386" tvg-logo="https://logo.catvod.com/1bd386.png" group-title="🌈 频道4_6",1bd386
 https://vip4.ddyunbo.com/20211006/FZmD6qfa/index.m3u8
-#EXTINF:-1,1bd387
+#EXTINF:-1 tvg-name="1bd387" tvg-logo="https://logo.catvod.com/1bd387.png" group-title="🌈 频道4_6",1bd387
 https://vip4.ddyunbo.com/20211006/sCxN7f1K/index.m3u8
-#EXTINF:-1,1bd388
+#EXTINF:-1 tvg-name="1bd388" tvg-logo="https://logo.catvod.com/1bd388.png" group-title="🌈 频道4_6",1bd388
 https://vip4.ddyunbo.com/20210808/mbHH74Q5/index.m3u8
-#EXTINF:-1,1bd389
+#EXTINF:-1 tvg-name="1bd389" tvg-logo="https://logo.catvod.com/1bd389.png" group-title="🌈 频道4_6",1bd389
 https://vip4.ddyunbo.com/20211006/37MxZCm9/index.m3u8
-#EXTINF:-1,1bd390
+#EXTINF:-1 tvg-name="1bd390" tvg-logo="https://logo.catvod.com/1bd390.png" group-title="🌈 频道4_6",1bd390
 https://vip4.ddyunbo.com/20211005/nxZGAsHA/index.m3u8
-#EXTINF:-1,1bd391
+#EXTINF:-1 tvg-name="1bd391" tvg-logo="https://logo.catvod.com/1bd391.png" group-title="🌈 频道4_6",1bd391
 https://vip4.ddyunbo.com/20211005/xzypeyYf/index.m3u8
-#EXTINF:-1,1bd392
+#EXTINF:-1 tvg-name="1bd392" tvg-logo="https://logo.catvod.com/1bd392.png" group-title="🌈 频道4_6",1bd392
 https://vip4.ddyunbo.com/20211006/DNpAiWO9/index.m3u8
-#EXTINF:-1,1bd393
+#EXTINF:-1 tvg-name="1bd393" tvg-logo="https://logo.catvod.com/1bd393.png" group-title="🌈 频道4_6",1bd393
 https://vip4.ddyunbo.com/20210808/6bBWyYYx/index.m3u8
-#EXTINF:-1,1bd394
+#EXTINF:-1 tvg-name="1bd394" tvg-logo="https://logo.catvod.com/1bd394.png" group-title="🌈 频道4_6",1bd394
 https://vip4.ddyunbo.com/20210808/Pf1jWJ54/index.m3u8
-#EXTINF:-1,1bd395
+#EXTINF:-1 tvg-name="1bd395" tvg-logo="https://logo.catvod.com/1bd395.png" group-title="🌈 频道4_6",1bd395
 https://vip4.ddyunbo.com/20210626/yasWpN6k/index.m3u8
-#EXTINF:-1,playboy HD
+#EXTINF:-1 tvg-name="playboy HD" tvg-logo="https://logo.catvod.com/playboy HD.png" group-title="🌈 欧美频道_6",playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1,girls live
+#EXTINF:-1 tvg-name="girls live" tvg-logo="https://logo.catvod.com/girls live.png" group-title="🌈 欧美频道_6",girls live
 https://live.mycamtv.com/stream.m3u8
-#EXTINF:-1,Miami TV Sun Beach
+#EXTINF:-1 tvg-name="Miami TV Sun Beach" tvg-logo="https://logo.catvod.com/Miami TV Sun Beach.png" group-title="🌈 欧美频道_6",Miami TV Sun Beach
 http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
-#EXTINF:-1,Asian Porn
+#EXTINF:-1 tvg-name="Asian Porn" tvg-logo="https://logo.catvod.com/Asian Porn.png" group-title="🌈 欧美频道_6",Asian Porn
 https://live.adultiptv.net/asian.m3u8
-#EXTINF:-1,rus
+#EXTINF:-1 tvg-name="rus" tvg-logo="https://logo.catvod.com/rus.png" group-title="🌈 欧美频道_6",rus
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1,bigass
+#EXTINF:-1 tvg-name="bigass" tvg-logo="https://logo.catvod.com/bigass.png" group-title="🌈 欧美频道_6",bigass
 http://live.redtraffic.xyz/bigass.m3u8#40c3c321681a14082b2b5770828910904e38ae2d1176ac1084582c805cce0795
-#EXTINF:-1,RedTraffic Big Dick
+#EXTINF:-1 tvg-name="RedTraffic Big Dick" tvg-logo="https://logo.catvod.com/RedTraffic Big Dick.png" group-title="🌈 欧美频道_6",RedTraffic Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1,RedTraffic Big Tits
+#EXTINF:-1 tvg-name="RedTraffic Big Tits" tvg-logo="https://logo.catvod.com/RedTraffic Big Tits.png" group-title="🌈 欧美频道_6",RedTraffic Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1,RedTraffic Blowjob
+#EXTINF:-1 tvg-name="RedTraffic Blowjob" tvg-logo="https://logo.catvod.com/RedTraffic Blowjob.png" group-title="🌈 欧美频道_6",RedTraffic Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1,RedTraffic Cuckold
+#EXTINF:-1 tvg-name="RedTraffic Cuckold" tvg-logo="https://logo.catvod.com/RedTraffic Cuckold.png" group-title="🌈 欧美频道_6",RedTraffic Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1,RedTraffic Fetish
+#EXTINF:-1 tvg-name="RedTraffic Fetish" tvg-logo="https://logo.catvod.com/RedTraffic Fetish.png" group-title="🌈 欧美频道_6",RedTraffic Fetish
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1,RedTraffic Hardcore
+#EXTINF:-1 tvg-name="RedTraffic Hardcore" tvg-logo="https://logo.catvod.com/RedTraffic Hardcore.png" group-title="🌈 欧美频道_6",RedTraffic Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1,RedTraffic Interracial
+#EXTINF:-1 tvg-name="RedTraffic Interracial" tvg-logo="https://logo.catvod.com/RedTraffic Interracial.png" group-title="🌈 欧美频道_6",RedTraffic Interracial
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1,RedTraffic Latina
+#EXTINF:-1 tvg-name="RedTraffic Latina" tvg-logo="https://logo.catvod.com/RedTraffic Latina.png" group-title="🌈 欧美频道_6",RedTraffic Latina
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1,RedTraffic Lesbian
+#EXTINF:-1 tvg-name="RedTraffic Lesbian" tvg-logo="https://logo.catvod.com/RedTraffic Lesbian.png" group-title="🌈 欧美频道_6",RedTraffic Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1,RedTraffic MILF
+#EXTINF:-1 tvg-name="RedTraffic MILF" tvg-logo="https://logo.catvod.com/RedTraffic MILF.png" group-title="🌈 欧美频道_6",RedTraffic MILF
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1,RedTraffic Pornstar
+#EXTINF:-1 tvg-name="RedTraffic Pornstar" tvg-logo="https://logo.catvod.com/RedTraffic Pornstar.png" group-title="🌈 欧美频道_6",RedTraffic Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1,RedTraffic POV
+#EXTINF:-1 tvg-name="RedTraffic POV" tvg-logo="https://logo.catvod.com/RedTraffic POV.png" group-title="🌈 欧美频道_6",RedTraffic POV
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1,Kpop Girl Does Porn
+#EXTINF:-1 tvg-name="Kpop Girl Does Porn" tvg-logo="https://logo.catvod.com/Kpop Girl Does Porn.png" group-title="🌈 欧美频道_6",Kpop Girl Does Porn
 http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
-#EXTINF:-1,OM001
+#EXTINF:-1 tvg-name="OM001" tvg-logo="https://logo.catvod.com/OM001.png" group-title="🌈 欧美频道_6",OM001
 http://live.redtraffic.xyz:80/threesome.m3u8
-#EXTINF:-1,OM002
+#EXTINF:-1 tvg-name="OM002" tvg-logo="https://logo.catvod.com/OM002.png" group-title="🌈 欧美频道_6",OM002
 http://live.redtraffic.xyz/threesome.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM003
+#EXTINF:-1 tvg-name="OM003" tvg-logo="https://logo.catvod.com/OM003.png" group-title="🌈 欧美频道_6",OM003
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1,OM004
+#EXTINF:-1 tvg-name="OM004" tvg-logo="https://logo.catvod.com/OM004.png" group-title="🌈 欧美频道_6",OM004
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM005
+#EXTINF:-1 tvg-name="OM005" tvg-logo="https://logo.catvod.com/OM005.png" group-title="🌈 欧美频道_6",OM005
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,OM006
+#EXTINF:-1 tvg-name="OM006" tvg-logo="https://logo.catvod.com/OM006.png" group-title="🌈 欧美频道_6",OM006
 http://live.redtraffic.xyz:80/cuckold.m3u8
-#EXTINF:-1,OM007
+#EXTINF:-1 tvg-name="OM007" tvg-logo="https://logo.catvod.com/OM007.png" group-title="🌈 欧美频道_6",OM007
 http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM008
+#EXTINF:-1 tvg-name="OM008" tvg-logo="https://logo.catvod.com/OM008.png" group-title="🌈 欧美频道_6",OM008
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1,OM009
+#EXTINF:-1 tvg-name="OM009" tvg-logo="https://logo.catvod.com/OM009.png" group-title="🌈 欧美频道_6",OM009
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1,OM010
+#EXTINF:-1 tvg-name="OM010" tvg-logo="https://logo.catvod.com/OM010.png" group-title="🌈 欧美频道_6",OM010
 http://live.redtraffic.xyz:80/interracial.m3u8
-#EXTINF:-1,OM011
+#EXTINF:-1 tvg-name="OM011" tvg-logo="https://logo.catvod.com/OM011.png" group-title="🌈 欧美频道_6",OM011
 http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM01
+#EXTINF:-1 tvg-name="OM01" tvg-logo="https://logo.catvod.com/OM01.png" group-title="🌈 欧美频道_6",OM01
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1,OM01
+#EXTINF:-1 tvg-name="OM01" tvg-logo="https://logo.catvod.com/OM01.png" group-title="🌈 欧美频道_6",OM01
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1,OM01
+#EXTINF:-1 tvg-name="OM01" tvg-logo="https://logo.catvod.com/OM01.png" group-title="🌈 欧美频道_6",OM01
 http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1,OM01
+#EXTINF:-1 tvg-name="OM01" tvg-logo="https://logo.catvod.com/OM01.png" group-title="🌈 欧美频道_6",OM01
 http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM2
+#EXTINF:-1 tvg-name="OM2" tvg-logo="https://logo.catvod.com/OM2.png" group-title="🌈 欧美频道_6",OM2
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1,OM2
+#EXTINF:-1 tvg-name="OM2" tvg-logo="https://logo.catvod.com/OM2.png" group-title="🌈 欧美频道_6",OM2
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1,OM2
+#EXTINF:-1 tvg-name="OM2" tvg-logo="https://logo.catvod.com/OM2.png" group-title="🌈 欧美频道_6",OM2
 http://live.redtraffic.xyz/fetish.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM2
+#EXTINF:-1 tvg-name="OM2" tvg-logo="https://logo.catvod.com/OM2.png" group-title="🌈 欧美频道_6",OM2
 http://live.redtraffic.xyz/bigdick.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM3
+#EXTINF:-1 tvg-name="OM3" tvg-logo="https://logo.catvod.com/OM3.png" group-title="🌈 欧美频道_6",OM3
 http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1,OM3
+#EXTINF:-1 tvg-name="OM3" tvg-logo="https://logo.catvod.com/OM3.png" group-title="🌈 欧美频道_6",OM3
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1,OM3
+#EXTINF:-1 tvg-name="OM3" tvg-logo="https://logo.catvod.com/OM3.png" group-title="🌈 欧美频道_6",OM3
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1,OM3
+#EXTINF:-1 tvg-name="OM3" tvg-logo="https://logo.catvod.com/OM3.png" group-title="🌈 欧美频道_6",OM3
 http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM4
+#EXTINF:-1 tvg-name="OM4" tvg-logo="https://logo.catvod.com/OM4.png" group-title="🌈 欧美频道_6",OM4
 http://live.redtraffic.xyz/latina.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM4
+#EXTINF:-1 tvg-name="OM4" tvg-logo="https://logo.catvod.com/OM4.png" group-title="🌈 欧美频道_6",OM4
 http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM4
+#EXTINF:-1 tvg-name="OM4" tvg-logo="https://logo.catvod.com/OM4.png" group-title="🌈 欧美频道_6",OM4
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1,OM4
+#EXTINF:-1 tvg-name="OM4" tvg-logo="https://logo.catvod.com/OM4.png" group-title="🌈 欧美频道_6",OM4
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1,OM51
+#EXTINF:-1 tvg-name="OM51" tvg-logo="https://logo.catvod.com/OM51.png" group-title="🌈 欧美频道_6",OM51
 http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1,OM52
+#EXTINF:-1 tvg-name="OM52" tvg-logo="https://logo.catvod.com/OM52.png" group-title="🌈 欧美频道_6",OM52
 http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM53
+#EXTINF:-1 tvg-name="OM53" tvg-logo="https://logo.catvod.com/OM53.png" group-title="🌈 欧美频道_6",OM53
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1,OM54
+#EXTINF:-1 tvg-name="OM54" tvg-logo="https://logo.catvod.com/OM54.png" group-title="🌈 欧美频道_6",OM54
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1,OM55
+#EXTINF:-1 tvg-name="OM55" tvg-logo="https://logo.catvod.com/OM55.png" group-title="🌈 欧美频道_6",OM55
 http://live.redtraffic.xyz/bigass.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM56
+#EXTINF:-1 tvg-name="OM56" tvg-logo="https://logo.catvod.com/OM56.png" group-title="🌈 欧美频道_6",OM56
 http://live.redtraffic.xyz/blowjob.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM57
+#EXTINF:-1 tvg-name="OM57" tvg-logo="https://logo.catvod.com/OM57.png" group-title="🌈 欧美频道_6",OM57
 http://live.redtraffic.xyz:80/blowjob.m3u8
-#EXTINF:-1,OM58
+#EXTINF:-1 tvg-name="OM58" tvg-logo="https://logo.catvod.com/OM58.png" group-title="🌈 欧美频道_6",OM58
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1,OM59
+#EXTINF:-1 tvg-name="OM59" tvg-logo="https://logo.catvod.com/OM59.png" group-title="🌈 欧美频道_6",OM59
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1,OM60
+#EXTINF:-1 tvg-name="OM60" tvg-logo="https://logo.catvod.com/OM60.png" group-title="🌈 欧美频道_6",OM60
 http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM61
+#EXTINF:-1 tvg-name="OM61" tvg-logo="https://logo.catvod.com/OM61.png" group-title="🌈 欧美频道_6",OM61
 http://live.redtraffic.xyz:80/teen.m3u8
-#EXTINF:-1,OM62
+#EXTINF:-1 tvg-name="OM62" tvg-logo="https://logo.catvod.com/OM62.png" group-title="🌈 欧美频道_6",OM62
 http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM63
+#EXTINF:-1 tvg-name="OM63" tvg-logo="https://logo.catvod.com/OM63.png" group-title="🌈 欧美频道_6",OM63
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1,OM64
+#EXTINF:-1 tvg-name="OM64" tvg-logo="https://logo.catvod.com/OM64.png" group-title="🌈 欧美频道_6",OM64
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1,OM65
+#EXTINF:-1 tvg-name="OM65" tvg-logo="https://logo.catvod.com/OM65.png" group-title="🌈 欧美频道_6",OM65
 http://live.redtraffic.xyz:80/milf.m3u8
-#EXTINF:-1,OM66
+#EXTINF:-1 tvg-name="OM66" tvg-logo="https://logo.catvod.com/OM66.png" group-title="🌈 欧美频道_6",OM66
 http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM67
+#EXTINF:-1 tvg-name="OM67" tvg-logo="https://logo.catvod.com/OM67.png" group-title="🌈 欧美频道_6",OM67
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1,OM68
+#EXTINF:-1 tvg-name="OM68" tvg-logo="https://logo.catvod.com/OM68.png" group-title="🌈 欧美频道_6",OM68
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1,OM69
+#EXTINF:-1 tvg-name="OM69" tvg-logo="https://logo.catvod.com/OM69.png" group-title="🌈 欧美频道_6",OM69
 http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1,OM70
+#EXTINF:-1 tvg-name="OM70" tvg-logo="https://logo.catvod.com/OM70.png" group-title="🌈 欧美频道_6",OM70
 http://live.redtraffic.xyz/pov.m3u8fluxuslust.m3u8
-#EXTINF:-1,OM71
+#EXTINF:-1 tvg-name="OM71" tvg-logo="https://logo.catvod.com/OM71.png" group-title="🌈 欧美频道_6",OM71
 http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM72
+#EXTINF:-1 tvg-name="OM72" tvg-logo="https://logo.catvod.com/OM72.png" group-title="🌈 欧美频道_6",OM72
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1,OM73
+#EXTINF:-1 tvg-name="OM73" tvg-logo="https://logo.catvod.com/OM73.png" group-title="🌈 欧美频道_6",OM73
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1,OMT
+#EXTINF:-1 tvg-name="OMT" tvg-logo="https://logo.catvod.com/OMT.png" group-title="🌈 欧美频道_6",OMT
 http://live.redtraffic.xyz:80/hardcore.m3u8
-#EXTINF:-1,OMT
+#EXTINF:-1 tvg-name="OMT" tvg-logo="https://logo.catvod.com/OMT.png" group-title="🌈 欧美频道_6",OMT
 http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OMT
+#EXTINF:-1 tvg-name="OMT" tvg-logo="https://logo.catvod.com/OMT.png" group-title="🌈 欧美频道_6",OMT
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1,OMT
+#EXTINF:-1 tvg-name="OMT" tvg-logo="https://logo.catvod.com/OMT.png" group-title="🌈 欧美频道_6",OMT
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1,OM74
+#EXTINF:-1 tvg-name="OM74" tvg-logo="https://logo.catvod.com/OM74.png" group-title="🌈 欧美频道_6",OM74
 http://live.redtraffic.xyz:80/bigtits.m3u8
-#EXTINF:-1,OM75
+#EXTINF:-1 tvg-name="OM75" tvg-logo="https://logo.catvod.com/OM75.png" group-title="🌈 欧美频道_6",OM75
 http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM76
+#EXTINF:-1 tvg-name="OM76" tvg-logo="https://logo.catvod.com/OM76.png" group-title="🌈 欧美频道_6",OM76
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1,OM77
+#EXTINF:-1 tvg-name="OM77" tvg-logo="https://logo.catvod.com/OM77.png" group-title="🌈 欧美频道_6",OM77
 http://live.redtraffic.xyz:80/pornstar.m3u8
-#EXTINF:-1,OM78
+#EXTINF:-1 tvg-name="OM78" tvg-logo="https://logo.catvod.com/OM78.png" group-title="🌈 欧美频道_6",OM78
 http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM79
+#EXTINF:-1 tvg-name="OM79" tvg-logo="https://logo.catvod.com/OM79.png" group-title="🌈 欧美频道_6",OM79
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1,OM80
+#EXTINF:-1 tvg-name="OM80" tvg-logo="https://logo.catvod.com/OM80.png" group-title="🌈 欧美频道_6",OM80
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1,OM81
+#EXTINF:-1 tvg-name="OM81" tvg-logo="https://logo.catvod.com/OM81.png" group-title="🌈 欧美频道_6",OM81
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1,OM82
+#EXTINF:-1 tvg-name="OM82" tvg-logo="https://logo.catvod.com/OM82.png" group-title="🌈 欧美频道_6",OM82
 http://live.redtraffic.xyz/livecams.m3u8
-#EXTINF:-1,OM83
+#EXTINF:-1 tvg-name="OM83" tvg-logo="https://logo.catvod.com/OM83.png" group-title="🌈 欧美频道_6",OM83
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1,OM84
+#EXTINF:-1 tvg-name="OM84" tvg-logo="https://logo.catvod.com/OM84.png" group-title="🌈 欧美频道_6",OM84
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1,OM85
+#EXTINF:-1 tvg-name="OM85" tvg-logo="https://logo.catvod.com/OM85.png" group-title="🌈 欧美频道_6",OM85
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-#EXTINF:-1,OM87
+#EXTINF:-1 tvg-name="OM87" tvg-logo="https://logo.catvod.com/OM87.png" group-title="🌈 欧美频道_6",OM87
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1,OM88
+#EXTINF:-1 tvg-name="OM88" tvg-logo="https://logo.catvod.com/OM88.png" group-title="🌈 欧美频道_6",OM88
 http://live.redtraffic.xyz/rough.m3u8
-#EXTINF:-1,Gangbang
+#EXTINF:-1 tvg-name="Gangbang" tvg-logo="https://logo.catvod.com/Gangbang.png" group-title="🌈 欧美频道_6",Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1,Gangbang
+#EXTINF:-1 tvg-name="Gangbang" tvg-logo="https://logo.catvod.com/Gangbang.png" group-title="🌈 欧美频道_6",Gangbang
 http://live.redtraffic.xyz/gangbang.m3u8
-#EXTINF:-1,Compilation
+#EXTINF:-1 tvg-name="Compilation" tvg-logo="https://logo.catvod.com/Compilation.png" group-title="🌈 欧美频道_6",Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1,Compilation
+#EXTINF:-1 tvg-name="Compilation" tvg-logo="https://logo.catvod.com/Compilation.png" group-title="🌈 欧美频道_6",Compilation
 http://live.redtraffic.xyz/compilation.m3u8
-#EXTINF:-1,Brunette
+#EXTINF:-1 tvg-name="Brunette" tvg-logo="https://logo.catvod.com/Brunette.png" group-title="🌈 欧美频道_6",Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1,Brunette
+#EXTINF:-1 tvg-name="Brunette" tvg-logo="https://logo.catvod.com/Brunette.png" group-title="🌈 欧美频道_6",Brunette
 http://live.redtraffic.xyz/brunette.m3u8
-#EXTINF:-1,Blonde
+#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://logo.catvod.com/Blonde.png" group-title="🌈 欧美频道_6",Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1,Blonde
+#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://logo.catvod.com/Blonde.png" group-title="🌈 欧美频道_6",Blonde
 http://live.redtraffic.xyz/blonde.m3u8
-#EXTINF:-1,Blonde
+#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://logo.catvod.com/Blonde.png" group-title="🌈 欧美频道_6",Blonde
 http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-#EXTINF:-1,Anal
+#EXTINF:-1 tvg-name="Anal" tvg-logo="https://logo.catvod.com/Anal.png" group-title="🌈 欧美频道_6",Anal
 http://live.redtraffic.xyz/anal.m3u8
-#EXTINF:-1,Anal
+#EXTINF:-1 tvg-name="Anal" tvg-logo="https://logo.catvod.com/Anal.png" group-title="🌈 欧美频道_6",Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1,Asian
+#EXTINF:-1 tvg-name="Asian" tvg-logo="https://logo.catvod.com/Asian.png" group-title="🌈 欧美频道_6",Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1,Asian
+#EXTINF:-1 tvg-name="Asian" tvg-logo="https://logo.catvod.com/Asian.png" group-title="🌈 欧美频道_6",Asian
 http://live.redtraffic.xyz/asian.m3u8
-#EXTINF:-1,Russian
+#EXTINF:-1 tvg-name="Russian" tvg-logo="https://logo.catvod.com/Russian.png" group-title="🌈 欧美频道_6",Russian
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1,Russian
+#EXTINF:-1 tvg-name="Russian" tvg-logo="https://logo.catvod.com/Russian.png" group-title="🌈 欧美频道_6",Russian
 http://live.redtraffic.xyz:80/russian.m3u8
-#EXTINF:-1,Russian
+#EXTINF:-1 tvg-name="Russian" tvg-logo="https://logo.catvod.com/Russian.png" group-title="🌈 欧美频道_6",Russian
 http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
